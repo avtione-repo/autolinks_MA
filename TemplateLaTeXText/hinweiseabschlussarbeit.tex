@@ -12,17 +12,10 @@
 % ===================================Praeambel==================================
 
 % Kodierung, Sprache, Patches {{{
-\usepackage[T1]{fontenc}    % Ausgabekodierung; ermoeglicht Akzente und Umlaute
                             %  sowie korrekte Silbentrennung.
 \usepackage[utf8]{inputenc} % Erlaub die direkte Eingabe spezieller Zeichen.
                             %  Utf8 muss die Eingabekodierung des Editors sein.
-\usepackage[ngerman]{babel} % Deutsche Sprachanpassungen (z.B. Ueberschriften).
-\usepackage{microtype}      % Optimale Randausrichtung und Skalierung.
-\usepackage[
-    autostyle,
-    ]{csquotes}             % Korrekte Anfuehrungszeichen in der Literaturliste.
-\usepackage{fixltx2e}       % Patches fuer LaTeX2e.
-\usepackage{scrhack}        % Verhindert Warnungen mit aelteren Paketen.
+\usepackage{microtype}      % Optimale Randausrichtung und Skalierung.           % Korrekte Anfuehrungszeichen in der Literaturliste.
 \usepackage[
   newcommands
 ]{ragged2e}                 % Verbesserte \ragged...Befehle
@@ -37,16 +30,8 @@
 \usepackage{courier}        % modifies the monospace font
 % }}}
 
-% Biblatex {{{
-\usepackage[
-    style=alphabetic,
-    backend=biber,
-    %backref=true
-    ]{biblatex}             % Biblatex mit alphabetischem Style und biber.
+             % Biblatex mit alphabetischem Style und biber.
 \bibliography{\jobname.bib}      % Dateiname der bib-Datei.
-\DeclareFieldFormat*{title}{
-    \mkbibemph{#1}}         % Make titles italics
-% }}}
 
 % Dokument- und Texteinstellungen {{{
 \usepackage[
@@ -58,8 +43,7 @@
 \clubpenalty=10000          % Keine Einzelzeile am Beginn eines Paragraphen
                             %  (Schusterjungen).
 \widowpenalty=10000         % Keine Einzelzeile am Ende eines Paragraphen
-\displaywidowpenalty=10000  %  (Hurenkinder).
-\usepackage{floatrow}       % Zentriert alle Floats.
+\displaywidowpenalty=10000  %  (Hurenkinder)..
 \usepackage{ifdraft}        % Ermoeglicht \ifoptionfinal{true}{false}
 \pagestyle{plain}           % keine Kopfzeilen
 % \sloppy                    % großzügige Formatierungsweise
@@ -78,30 +62,14 @@
 
 % Weitere Pakete {{{
 \usepackage{graphicx}       % Einfuegen von Graphiken.
-\usepackage{tabu}           % Einfuegen von Tabellen.
-\usepackage{multirow}       % Tabellenzeilen zusammenfassen.
 \usepackage{multicol}       % Tabellenspalten zusammenfassen.
 \usepackage{booktabs}       % Schönere Tabellen (\toprule\midrule\bottomrule).
-\usepackage[nocut]{thmbox}  % Theorembox bspw. fuer Angreifermodell.
 \usepackage{amsmath}        % Erweiterte Handhabung mathematischer Formeln.
 \usepackage{amssymb}        % Erweiterte mathematische Symbole.
 \usepackage{rotating}
 \usepackage[
     printonlyused
-    ]{acronym}              % Abkuerzungsverzeichnis.
-\usepackage[
-    colorinlistoftodos,
-    textsize=tiny,          % Notizen und TODOs - mit der todonotes.sty von
-    \ifoptionfinal{disable}{}%  Benjamin Kellermann ist das Package "changebar"
-    ]{todonotes}            %  bereits integriert.
-\usepackage[
-    breaklinks,
-    hidelinks,
-    pdfdisplaydoctitle,
-    pdfpagemode = {UseOutlines},
-    pdfpagelabels,
-    ]{hyperref}             % Sprungmarken im PDF. Laed das URL Paket.
-    \urlstyle{rm}           % Entfernt die Formattierung von URLs.
+    ]{acronym}              % Abkuerzungsverzeichnis.           %  bereits integriert.
 %\usepackage{breakurl}
 %\def\UrlBreaks{\do\/\do-}
 \usepackage{listings}       % Spezielle Umgebung für...
@@ -385,10 +353,9 @@
 
 % ===================================Dokument===================================
 
-\title{Hinweise für das Erscheinungsbild von Seminar-, Studien- und Bachelor-,
-    Master- und Diplomarbeiten}
-\author{Hannes Federrath}
-% \date{01.01.2015} % falls ein bestimmter Tag eingesetzt werden soll, einfach
+\title{Master Thesis}
+\author{Alvin Rindra Fazrie}
+% \date{01.01.2018} % falls ein bestimmter Tag eingesetzt werden soll, einfach
                     %  diese Zeile aktivieren
 
 \begin{document}
