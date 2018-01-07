@@ -1,0 +1,35 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {ngerman}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Vorbemerkung}{5}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Inhalt}{6}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Anforderungen an eine Arbeit}{6}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Aufbau der Arbeit}{6}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Form}{8}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Umfang der schriftlichen Ausarbeitung}{8}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Gestaltung}{8}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Abbildungen, Tabellen und Listings}{9}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Literaturverzeichnis}{10}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Wikipedia}{11}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Vor der Abgabe}{11}{section.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Betreuung und Bewertung der Arbeit}{13}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Schriftlicher Teil}{13}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Bewertung}{13}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Referat}{14}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Schlussbemerkungen}{15}{chapter.5}

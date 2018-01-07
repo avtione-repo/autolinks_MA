@@ -1,19 +1,11 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.11)  31 DEC 2017 17:51
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.1)  1 JAN 2018 18:07
->>>>>>> revert-scheduling
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.7)  7 JAN 2018 22:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **hinweiseabschlussarbeit.tex
 (./hinweiseabschlussarbeit.tex
 LaTeX2e <2016/02/01>
-<<<<<<< HEAD
-Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
-=======
-Babel <3.9q> and hyphenation patterns for 5 language(s) loaded.
->>>>>>> revert-scheduling
+Babel <3.9q> and hyphenation patterns for 10 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrreprt.cls
 Document Class: scrreprt 2015/10/03 v3.19a KOMA-Script document class (report)
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
@@ -100,29 +92,14 @@ LaTeX Info: Redefining \textsubscript on input line 4652.
 \c@figure=\count87
 \c@table=\count88
 \bibindent=\dimen102
-<<<<<<< HEAD
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)
-! Font T1/cmr/m/n/12=ecrm1200 at 12.0pt not loadable: Metric (TFM) file not fou
-nd.
-<to be read again> 
-                   relax 
-l.105 \fontencoding\encodingdefault\selectfont
-                                              
-I wasn't able to read the size data for this font,
-so I will ignore the font specification.
-[Wizards can fix TFM files using TFtoPL/PLtoTF.]
-You might try inserting a different font spec;
-e.g., type `I\font<same font id>=<substitute font name>'.
-
-=======
->>>>>>> revert-scheduling
-) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
@@ -432,49 +409,32 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-<<<<<<< HEAD
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2016/02/24 3.9q The Babel package
 
+(/usr/share/texlive/texmf-dist/tex/generic/babel-german/ngerman.ldf
+Language: ngerman 2013/12/13 v2.7 German support for babel (new orthography)
 
-! Package babel Error: Unknown option `ngerman'. Either you misspelled it
-(babel)                or the language definition file ngerman.ldf was not foun
-d.
+(/usr/share/texlive/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+Language: ngermanb 2013/12/13 v2.7 German support for babel (new orthography)
 
-See the babel package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.310 \ProcessOptions*
-                      
-Valid options are: shorthands=, KeepShorthandsActive,
-activeacute, activegrave, noconfigs, safe=, main=, math=
-headfoot=, strings=, config=, hyphenmap=, or a language name.
-
-
-! Package babel Error: You haven't specified a language option.
-
-See the babel package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.343 ...ry to proceed from here, type x to quit.}
-                                                  
-You need to specify a language, either as a global option
-or as an optional argument to the \usepackage command;
-You shouldn't try to proceed from here, type x to quit.
-
-) (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
-=======
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/02/24 3.9q Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+)
+\l@naustrian = a dialect from \language\l@ngerman 
+\l@nswissgerman = a dialect from \language\l@ngerman 
+Package babel Info: Making " an active character on input line 88.
+)))
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
->>>>>>> revert-scheduling
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
 \MT@toks=\toks17
-\MT@count=\count89
+\MT@count=\count90
 LaTeX Info: Redefining \textls on input line 766.
-\MT@outer@kern=\dimen103
+\MT@outer@kern=\dimen104
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
-\MT@listname@count=\count90
+\MT@listname@count=\count91
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
@@ -488,31 +448,43 @@ Package microtype Info: Loading configuration file microtype.cfg.
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
 ))
-<<<<<<< HEAD
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2016/01/31 v5.1g context-sensitive quotations (JAW)
 
-! LaTeX Error: File `csquotes.sty' not found.
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count92
+)
+\csq@reset=\count93
+\csq@gtype=\count94
+\csq@glevel=\count95
+\csq@qlevel=\count96
+\csq@maxlvl=\count97
+\csq@tshold=\count98
+\csq@ltx@everypar=\toks18
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2016/01/31 v5.1g csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.24 \usepackage
-                [^^M
-*** (cannot \read from terminal in nonstop modes)
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Enabling multilingual quotes.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2015/06/22 v2.0b fixes to LaTeX (obsolete)
 
- 
-Here is how much of TeX's memory you used:
- 3667 strings out of 494953
- 58677 string characters out of 6180976
- 209112 words of memory out of 5000000
- 6979 multiletter control sequences out of 15000+600000
- 3938 words of font info for 15 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 41i,1n,66p,237b,94s stack positions out of 5000i,500n,10000p,200000b,80000s
-=======
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrhack.sty
+Package: scrhack 2015/10/03 v3.19a KOMA-Script package 
+)
 (/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
@@ -576,8 +548,236 @@ Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS)
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/courier.sty
 Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
-\bibdata{hinweiseabschlussarbeit.bib}
-No file hinweiseabschlussarbeit.bbl.
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2016/03/03 v3.3 programmable bibliographies (PK/JW/AB)
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex_.sty
+Package: biblatex_ 2016/03/03 v3.3 programmable bibliographies (biber) (PK/JW/A
+B)
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count99
+
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count100
+\c@listtotal=\count101
+\c@listcount=\count102
+\c@liststart=\count103
+\c@liststop=\count104
+\c@citecount=\count105
+\c@citetotal=\count106
+\c@multicitecount=\count107
+\c@multicitetotal=\count108
+\c@instcount=\count109
+\c@maxnames=\count110
+\c@minnames=\count111
+\c@maxitems=\count112
+\c@minitems=\count113
+\c@citecounter=\count114
+\c@savedcitecounter=\count115
+\c@uniquelist=\count116
+\c@uniquename=\count117
+\c@refsection=\count118
+\c@refsegment=\count119
+\c@maxextratitle=\count120
+\c@maxextratitleyear=\count121
+\c@maxextrayear=\count122
+\c@maxextraalpha=\count123
+\c@abbrvpenalty=\count124
+\c@highnamepenalty=\count125
+\c@lownamepenalty=\count126
+\c@maxparens=\count127
+\c@parenlevel=\count128
+\blx@tempcnta=\count129
+\blx@tempcntb=\count130
+\blx@tempcntc=\count131
+\blx@maxsection=\count132
+\blx@maxsegment@0=\count133
+\blx@notetype=\count134
+\blx@parenlevel@text=\count135
+\blx@parenlevel@foot=\count136
+\blx@sectionciteorder@0=\count137
+\labelnumberwidth=\skip63
+\labelalphawidth=\skip64
+\biblabelsep=\skip65
+\bibitemsep=\skip66
+\bibnamesep=\skip67
+\bibinitsep=\skip68
+\bibparsep=\skip69
+\bibhang=\skip70
+\blx@bcfin=\read1
+\blx@bcfout=\write3
+\c@mincomprange=\count138
+\c@maxcomprange=\count139
+\c@mincompwidth=\count140
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'alphabetic.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count141
+\c@savedafterword=\count142
+\c@annotator=\count143
+\c@savedannotator=\count144
+\c@author=\count145
+\c@savedauthor=\count146
+\c@bookauthor=\count147
+\c@savedbookauthor=\count148
+\c@commentator=\count149
+\c@savedcommentator=\count150
+\c@editor=\count151
+\c@savededitor=\count152
+\c@editora=\count153
+\c@savededitora=\count154
+\c@editorb=\count155
+\c@savededitorb=\count156
+\c@editorc=\count157
+\c@savededitorc=\count158
+\c@foreword=\count159
+\c@savedforeword=\count160
+\c@holder=\count161
+\c@savedholder=\count162
+\c@introduction=\count163
+\c@savedintroduction=\count164
+\c@namea=\count165
+\c@savednamea=\count166
+\c@nameb=\count167
+\c@savednameb=\count168
+\c@namec=\count169
+\c@savednamec=\count170
+\c@translator=\count171
+\c@savedtranslator=\count172
+\c@shortauthor=\count173
+\c@savedshortauthor=\count174
+\c@shorteditor=\count175
+\c@savedshorteditor=\count176
+\c@labelname=\count177
+\c@savedlabelname=\count178
+\c@institution=\count179
+\c@savedinstitution=\count180
+\c@lista=\count181
+\c@savedlista=\count182
+\c@listb=\count183
+\c@savedlistb=\count184
+\c@listc=\count185
+\c@savedlistc=\count186
+\c@listd=\count187
+\c@savedlistd=\count188
+\c@liste=\count189
+\c@savedliste=\count190
+\c@listf=\count191
+\c@savedlistf=\count192
+\c@location=\count193
+\c@savedlocation=\count194
+\c@organization=\count195
+\c@savedorganization=\count196
+\c@origlocation=\count197
+\c@savedoriglocation=\count198
+\c@origpublisher=\count199
+\c@savedorigpublisher=\count266
+\c@publisher=\count267
+\c@savedpublisher=\count268
+\c@language=\count269
+\c@savedlanguage=\count270
+\c@pageref=\count271
+\c@savedpageref=\count272
+\shorthandwidth=\skip71
+\shortjournalwidth=\skip72
+\shortserieswidth=\skip73
+\shorttitlewidth=\skip74
+\shortauthorwidth=\skip75
+\shorteditorwidth=\skip76
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2016/03/03 v3.3 biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex_.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex_.def
+File: biblatex_.def 
+\c@textcitecount=\count273
+\c@textcitetotal=\count274
+\c@textcitemaxnames=\count275
+\c@biburlnumpenalty=\count276
+\c@biburlucpenalty=\count277
+\c@biburllcpenalty=\count278
+\c@smartand=\count279
+)
+Package biblatex Info: Trying to load bibliography style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/alphabetic.bbx
+File: alphabetic.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count280
+\c@bbx:relatedtotal=\count281
+))
+Package biblatex Info: Trying to load citation style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.cbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/alphabetic.cbx
+File: alphabetic.cbx 2016/03/03 v3.3 biblatex citation style (PK/JW/AB)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)))
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
@@ -592,18 +792,77 @@ Package ifvtex Info: VTeX not detected.
 (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count91
-\Gm@cntv=\count92
-\c@Gm@tempcnt=\count93
-\Gm@bindingoffset=\dimen104
-\Gm@wd@mp=\dimen105
-\Gm@odd@mp=\dimen106
-\Gm@even@mp=\dimen107
-\Gm@layoutwidth=\dimen108
-\Gm@layoutheight=\dimen109
-\Gm@layouthoffset=\dimen110
-\Gm@layoutvoffset=\dimen111
-\Gm@dimlist=\toks18
+\Gm@cnth=\count282
+\Gm@cntv=\count283
+\c@Gm@tempcnt=\count284
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks19
+)
+(/usr/share/texlive/texmf-dist/tex/latex/floatrow/floatrow.sty
+Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen113
+\captionmargin@=\dimen114
+\captionwidth=\dimen115
+\caption@tempdima=\dimen116
+\caption@indent=\dimen117
+\caption@parindent=\dimen118
+\caption@hangindent=\dimen119
+)
+\c@float@type=\count285
+\float@exts=\toks20
+\float@box=\box27
+\@floatcapt=\box28
+Package floatrow Info: Modified float package code loaded on input line 455.
+Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+
+\FR@everyfloat=\toks21
+\flrow@foot=\insert252
+\FB@wd=\dimen120
+\FBo@wd=\dimen121
+\FBc@wd=\dimen122
+\FBo@ht=\skip77
+\FBc@ht=\skip78
+\FBf@ht=\skip79
+\FBo@max=\skip80
+\FBc@max=\skip81
+\FBf@max=\skip82
+\c@FBl@b=\count286
+\floatbox@depth=\count287
+\c@FRobj=\count288
+\c@FRsobj=\count289
+\Xhsize=\skip83
+\sXhsize=\skip84
+\Zhsize=\skip85
+\sZhsize=\skip86
+\flrow@rowbox=\box29
+\FR@Zunitlength=\dimen123
+\c@FBcnt=\count290
+\FPOScnt=\count291
+\LTleft=\skip87
+\LTright=\skip88
+\LTleft=\skip89
+\LTright=\skip90
+\flrow@types=\toks22
+)
+Package scrhack Info: loading floatrow hack on input line 63.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/floatrow.hak
+File: floatrow.hak 2015/10/03 v3.19a KOMA-Script package (hacking package float
+row)
+Package scrhack Info: redefining \DeclareNewFloatType on input line 148.
+Package scrhack Info: redefining \listof on input line 148.
+Package scrhack Info: undefining \float@addtolists on input line 148.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty
 Package: ifdraft 2008/08/11 v1.3 Detect class options draft and final (HO)
@@ -624,49 +883,78 @@ Package graphics Info: Driver file: pdftex.def on input line 95.
 
 (/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count94
+\Gread@gobject=\count292
 ))
-\Gin@req@height=\dimen112
-\Gin@req@width=\dimen113
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tabu/tabu.sty
+Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen126
+\extrarowheight=\dimen127
+\NC@list=\toks23
+\extratabsurround=\skip91
+\backup@length=\skip92
+)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box30
+\sift@deathcycles=\count293
+\@vwid@loff=\dimen128
+\@vwid@roff=\dimen129
+)
+\c@taburow=\count294
+\tabu@nbcols=\count295
+\tabu@cnt=\count296
+\tabu@Xcol=\count297
+\tabu@alloc=\count298
+\tabu@nested=\count299
+\tabu@target=\dimen130
+\tabu@spreadtarget=\dimen131
+\tabu@naturalX=\dimen132
+\tabucolX=\dimen133
+\tabu@Xsum=\dimen134
+\extrarowdepth=\dimen135
+\abovetabulinesep=\dimen136
+\belowtabulinesep=\dimen137
+\tabustrutrule=\dimen138
+\tabu@thebody=\toks24
+\tabu@footnotes=\toks25
+\tabu@box=\box31
+\tabu@arstrutbox=\box32
+\tabu@hleads=\box33
+\tabu@vleads=\box34
+\tabu@cellskip=\skip93
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen139
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
-\c@tracingmulticols=\count95
-\mult@box=\box27
-\multicol@leftmargin=\dimen114
-\c@unbalance=\count96
-\c@collectmore=\count97
-\doublecol@number=\count98
-\multicoltolerance=\count99
-\multicolpretolerance=\count100
-\full@width=\dimen115
-\page@free=\dimen116
-\premulticols=\dimen117
-\postmulticols=\dimen118
-\multicolsep=\skip63
-\multicolbaselineskip=\skip64
-\partial@page=\box28
-\last@line=\box29
-\maxbalancingoverflow=\dimen119
-\mult@rightbox=\box30
-\mult@grightbox=\box31
-\mult@gfirstbox=\box32
-\mult@firstbox=\box33
-\@tempa=\box34
-\@tempa=\box35
-\@tempa=\box36
-\@tempa=\box37
-\@tempa=\box38
-\@tempa=\box39
-\@tempa=\box40
-\@tempa=\box41
+\c@tracingmulticols=\count300
+\mult@box=\box35
+\multicol@leftmargin=\dimen140
+\c@unbalance=\count301
+\c@collectmore=\count302
+\doublecol@number=\count303
+\multicoltolerance=\count304
+\multicolpretolerance=\count305
+\full@width=\dimen141
+\page@free=\dimen142
+\premulticols=\dimen143
+\postmulticols=\dimen144
+\multicolsep=\skip94
+\multicolbaselineskip=\skip95
+\partial@page=\box36
+\last@line=\box37
+\maxbalancingoverflow=\dimen145
+\mult@rightbox=\box38
+\mult@grightbox=\box39
+\mult@gfirstbox=\box40
+\mult@firstbox=\box41
 \@tempa=\box42
 \@tempa=\box43
 \@tempa=\box44
@@ -676,38 +964,57 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \@tempa=\box48
 \@tempa=\box49
 \@tempa=\box50
-\c@columnbadness=\count101
-\c@finalcolumnbadness=\count102
-\last@try=\dimen120
-\multicolovershoot=\dimen121
-\multicolundershoot=\dimen122
-\mult@nat@firstbox=\box51
-\colbreak@box=\box52
-\mc@col@check@num=\count103
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\c@columnbadness=\count306
+\c@finalcolumnbadness=\count307
+\last@try=\dimen146
+\multicolovershoot=\dimen147
+\multicolundershoot=\dimen148
+\mult@nat@firstbox=\box59
+\colbreak@box=\box60
+\mc@col@check@num=\count308
 )
 (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen123
-\lightrulewidth=\dimen124
-\cmidrulewidth=\dimen125
-\belowrulesep=\dimen126
-\belowbottomsep=\dimen127
-\aboverulesep=\dimen128
-\abovetopsep=\dimen129
-\cmidrulesep=\dimen130
-\cmidrulekern=\dimen131
-\defaultaddspace=\dimen132
-\@cmidla=\count104
-\@cmidlb=\count105
-\@aboverulesep=\dimen133
-\@belowrulesep=\dimen134
-\@thisruleclass=\count106
-\@lastruleclass=\count107
-\@thisrulewidth=\dimen135
+\heavyrulewidth=\dimen149
+\lightrulewidth=\dimen150
+\cmidrulewidth=\dimen151
+\belowrulesep=\dimen152
+\belowbottomsep=\dimen153
+\aboverulesep=\dimen154
+\abovetopsep=\dimen155
+\cmidrulesep=\dimen156
+\cmidrulekern=\dimen157
+\defaultaddspace=\dimen158
+\@cmidla=\count309
+\@cmidlb=\count310
+\@aboverulesep=\dimen159
+\@belowrulesep=\dimen160
+\@thisruleclass=\count311
+\@lastruleclass=\count312
+\@thisrulewidth=\dimen161
+)
+(/usr/share/texlive/texmf-dist/tex/latex/thmbox/thmbox.sty
+Package: thmbox 2005/04/24 v2.0 fancy theorem outlining
+\thmbox@leftmargin=\dimen162
+\thmbox@rightmargin=\dimen163
+\thmbox@hskip=\dimen164
+\thmbox@vskip=\dimen165
+\thmbox@thickness=\dimen166
+\thmbox@box=\box61
+\thmbox@box@=\box62
+\thmbox@dim=\dimen167
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/03/03 v2.15a AMS math features
-\@mathmargin=\skip65
+\@mathmargin=\skip96
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -715,51 +1022,51 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
-\ex@=\dimen136
+\@emptytoks=\toks26
+\ex@=\dimen168
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen137
+\pmbraise@=\dimen169
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count108
+\inf@bad=\count313
 LaTeX Info: Redefining \frac on input line 199.
-\uproot@=\count109
-\leftroot@=\count110
+\uproot@=\count314
+\leftroot@=\count315
 LaTeX Info: Redefining \overline on input line 297.
-\classnum@=\count111
-\DOTSCASE@=\count112
+\classnum@=\count316
+\DOTSCASE@=\count317
 LaTeX Info: Redefining \ldots on input line 394.
 LaTeX Info: Redefining \dots on input line 397.
 LaTeX Info: Redefining \cdots on input line 518.
-\Mathstrutbox@=\box53
-\strutbox@=\box54
-\big@size=\dimen138
+\Mathstrutbox@=\box63
+\strutbox@=\box64
+\big@size=\dimen170
 LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
-\macc@depth=\count113
-\c@MaxMatrixCols=\count114
-\dotsspace@=\muskip10
-\c@parentequation=\count115
-\dspbrk@lvl=\count116
-\tag@help=\toks20
-\row@=\count117
-\column@=\count118
-\maxfields@=\count119
-\andhelp@=\toks21
-\eqnshift@=\dimen139
-\alignsep@=\dimen140
-\tagshift@=\dimen141
-\tagwidth@=\dimen142
-\totwidth@=\dimen143
-\lineht@=\dimen144
-\@envbody=\toks22
-\multlinegap=\skip66
-\multlinetaggap=\skip67
-\mathdisplay@stack=\toks23
+\macc@depth=\count318
+\c@MaxMatrixCols=\count319
+\dotsspace@=\muskip11
+\c@parentequation=\count320
+\dspbrk@lvl=\count321
+\tag@help=\toks27
+\row@=\count322
+\column@=\count323
+\maxfields@=\count324
+\andhelp@=\toks28
+\eqnshift@=\dimen171
+\alignsep@=\dimen172
+\tagshift@=\dimen173
+\tagwidth@=\dimen174
+\totwidth@=\dimen175
+\lineht@=\dimen176
+\@envbody=\toks29
+\multlinegap=\skip97
+\multlinetaggap=\skip98
+\mathdisplay@stack=\toks30
 LaTeX Info: Redefining \[ on input line 2735.
 LaTeX Info: Redefining \] on input line 2736.
 )
@@ -775,15 +1082,11 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/rotating/rotating.sty
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-\c@r@tfl@t=\count120
-\rotFPtop=\skip68
-\rotFPbot=\skip69
-\rot@float@box=\box55
-\rot@mess@toks=\toks24
+\c@r@tfl@t=\count325
+\rotFPtop=\skip99
+\rotFPbot=\skip100
+\rot@float@box=\box65
+\rot@mess@toks=\toks31
 )
 (/usr/share/texlive/texmf-dist/tex/latex/acronym/acronym.sty
 Package: acronym 2015/03/21 v1.41 Support for acronyms (Tobias Oetiker)
@@ -793,37 +1096,463 @@ Package: suffix 2006/07/15 1.5a Variant command support
 )
 (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
 (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
-\@xs@message=\write3
-\integerpart=\count121
-\decimalpart=\count122
+\@xs@message=\write4
+\integerpart=\count326
+\decimalpart=\count327
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
-\AC@clearlist=\toks25
+\AC@clearlist=\toks32
+)
+(/usr/share/texlive/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
+Package: todonotes 2012/07/25
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks33
+\XKV@tempa@toks=\toks34
+)
+\XKV@depth=\count328
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks35
+\pgfutil@tempdima=\dimen177
+\pgfutil@tempdimb=\dimen178
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box66
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks36
+\pgfkeys@temptoks=\toks37
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks38
+))
+\pgf@x=\dimen179
+\pgf@y=\dimen180
+\pgf@xa=\dimen181
+\pgf@ya=\dimen182
+\pgf@xb=\dimen183
+\pgf@yb=\dimen184
+\pgf@xc=\dimen185
+\pgf@yc=\dimen186
+\w@pgf@writea=\write5
+\r@pgf@reada=\read2
+\c@pgf@counta=\count329
+\c@pgf@countb=\count330
+\c@pgf@countc=\count331
+\c@pgf@countd=\count332
+\t@pgf@toka=\toks39
+\t@pgf@tokb=\toks40
+\t@pgf@tokc=\toks41
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count333
+\pgfsyssoftpath@bigbuffer@items=\count334
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen187
+\pgfmath@count=\count335
+\pgfmath@box=\box67
+\pgfmath@toks=\toks42
+\pgfmath@stack@operand=\toks43
+\pgfmath@stack@operation=\toks44
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count336
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen188
+\pgf@picmaxx=\dimen189
+\pgf@picminy=\dimen190
+\pgf@picmaxy=\dimen191
+\pgf@pathminx=\dimen192
+\pgf@pathmaxx=\dimen193
+\pgf@pathminy=\dimen194
+\pgf@pathmaxy=\dimen195
+\pgf@xx=\dimen196
+\pgf@xy=\dimen197
+\pgf@yx=\dimen198
+\pgf@yy=\dimen199
+\pgf@zx=\dimen256
+\pgf@zy=\dimen257
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen258
+\pgf@path@lasty=\dimen259
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen260
+\pgf@shorten@start@additional=\dimen261
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box68
+\pgf@hbox=\box69
+\pgf@layerbox@main=\box70
+\pgf@picture@serial@count=\count337
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen262
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen263
+\pgf@pt@y=\dimen264
+\pgf@pt@temp=\dimen265
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen266
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen267
+\pgf@sys@shading@range@num=\count338
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box71
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box72
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen268
+\pgf@nodesepend=\dimen269
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen270
+\pgffor@skip=\dimen271
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count339
+\pgfplotmarksize=\dimen272
+)
+\tikz@lastx=\dimen273
+\tikz@lasty=\dimen274
+\tikz@lastxsaved=\dimen275
+\tikz@lastysaved=\dimen276
+\tikzleveldistance=\dimen277
+\tikzsiblingdistance=\dimen278
+\tikz@figbox=\box73
+\tikz@figbox@bg=\box74
+\tikz@tempbox=\box75
+\tikz@tempbox@bg=\box76
+\tikztreelevel=\count340
+\tikznumberofchildren=\count341
+\tikznumberofcurrentchild=\count342
+\tikz@fig@count=\count343
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count344
+\pgfmatrixcurrentcolumn=\count345
+\pgf@matrix@numberofcolumns=\count346
+)
+\tikz@expandcount=\count347
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count348
+\calc@Bcount=\count349
+\calc@Adimen=\dimen279
+\calc@Bdimen=\dimen280
+\calc@Askip=\skip101
+\calc@Bskip=\skip102
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count350
+\calc@Cskip=\skip103
+)
+\c@@todonotes@numberoftodonotes=\count351
+)
+Package scrhack Info: hyperref hack deactivated because of
+(scrhack)             detection of KOMA-Script class, that doesn't
+(scrhack)             need that hack, on input line 104.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen281
+\Hy@linkcounter=\count352
+\Hy@pagecounter=\count353
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count354
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 431
+9.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count355
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen282
+\Fld@menulength=\count356
+\Field@Width=\dimen283
+\Fld@charsize=\dimen284
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count357
+\c@Item=\count358
+\c@Hfootnote=\count359
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count360
+\c@bookmark@seq@number=\count361
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip104
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count123
-\lst@gtempboxa=\box56
-\lst@token=\toks26
-\lst@length=\count124
-\lst@currlwidth=\dimen145
-\lst@column=\count125
-\lst@pos=\count126
-\lst@lostspace=\dimen146
-\lst@width=\dimen147
-\lst@newlines=\count127
-\lst@lineno=\count128
-\lst@maxwidth=\dimen148
+\lst@mode=\count362
+\lst@gtempboxa=\box77
+\lst@token=\toks47
+\lst@length=\count363
+\lst@currlwidth=\dimen285
+\lst@column=\count364
+\lst@pos=\count365
+\lst@lostspace=\dimen286
+\lst@width=\dimen287
+\lst@newlines=\count366
+\lst@lineno=\count367
+\lst@maxwidth=\dimen288
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count129
-\lst@skipnumbers=\count130
-\lst@framebox=\box57
+\c@lstnumber=\count368
+\lst@skipnumbers=\count369
+\lst@framebox=\box78
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
+Package scrhack Info: loading listings hack on input line 108.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/listings.hak
+File: listings.hak 2015/10/03 v3.19a KOMA-Script package (hacking package listi
+ngs)
+Package tocbasic Info: setting babel extension for `lol' on input line 137.
+Package scrhack Info: redefining \lstlistoflistings on input line 137.
+)
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
@@ -842,28 +1571,41 @@ LaTeX Warning: Overwriting file `./hinweiseabschlussarbeit.bib'.
 \openout15 = `hinweiseabschlussarbeit.bib'.
 
 
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package biblatex Info: Trying to load language 'ngerman'...
+Package biblatex Info: ... file 'ngerman.lbx' found.
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
+File: ngerman.lbx 2016/03/03 v3.3 biblatex localization (PK/JW/AB)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2016/03/03 v3.3 biblatex localization (PK/JW/AB)
+))
 (./hinweiseabschlussarbeit.aux)
 \openout1 = `hinweiseabschlussarbeit.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 361.
-LaTeX Font Info:    ... okay on input line 361.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 361.
-LaTeX Font Info:    ... okay on input line 361.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 361.
-LaTeX Font Info:    ... okay on input line 361.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 361.
-LaTeX Font Info:    ... okay on input line 361.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 361.
-LaTeX Font Info:    ... okay on input line 361.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 361.
-LaTeX Font Info:    ... okay on input line 361.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 361.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 394.
+LaTeX Font Info:    ... okay on input line 394.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 394.
+LaTeX Font Info:    ... okay on input line 394.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 394.
+LaTeX Font Info:    ... okay on input line 394.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 394.
+LaTeX Font Info:    ... okay on input line 394.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 394.
+LaTeX Font Info:    ... okay on input line 394.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 394.
+LaTeX Font Info:    ... okay on input line 394.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 394.
+LaTeX Font Info:    ... okay on input line 394.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 394.
 
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-LaTeX Info: Redefining \microtypecontext on input line 361.
+LaTeX Info: Redefining \microtypecontext on input line 394.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -878,7 +1620,17 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 361.
+LaTeX Info: Redefining \selectfont on input line 394.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `hinweiseabschlussarbeit.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'hinweiseabschlussarbeit.bbl' found.
+ (./hinweiseabschlussarbeit.bbl)
+Package biblatex Info: Reference section=0 on input line 394.
+Package biblatex Info: Reference segment=0 on input line 394.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -914,65 +1666,35 @@ LaTeX Info: Redefining \selectfont on input line 361.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-! Undefined control sequence.
-\@begindocumenthook ... \Gm@ph \relax \hypersetup 
-                                                  {pdftitle = {\@title }, pd...
-l.361 \begin{document}
-                      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 394.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 394.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 394.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 394.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count131
-\scratchdimen=\dimen149
-\scratchbox=\box58
-\nofMPsegments=\count132
-\nofMParguments=\count133
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count134
-\MPscratchDim=\dimen150
-\MPnumerator=\count135
-\makeMPintoPDFobject=\count136
-\everyMPtoPDFconversion=\toks28
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+\scratchcounter=\count370
+\scratchdimen=\dimen289
+\scratchbox=\box79
+\nofMPsegments=\count371
+\nofMParguments=\count372
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count373
+\MPscratchDim=\dimen290
+\MPnumerator=\count374
+\makeMPintoPDFobject=\count375
+\everyMPtoPDFconversion=\toks49
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
+)
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
@@ -982,168 +1704,113 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@lstlisting=\count137
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box80
+Package hyperref Info: Link coloring OFF on input line 394.
 
-[1
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<../pic/up-uhh-logo-u-2010-u-farbe-u-rgb.pdf, id=7, 393.93175pt x 127.66696pt>
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count376
+)
+LaTeX Info: Redefining \ref on input line 394.
+LaTeX Info: Redefining \pageref on input line 394.
+LaTeX Info: Redefining \nameref on input line 394.
+
+(./hinweiseabschlussarbeit.out) (./hinweiseabschlussarbeit.out)
+\@outlinefile=\write6
+\openout6 = `hinweiseabschlussarbeit.out'.
+
+\c@lstlisting=\count377
+Package scrhack Info: undefining \float@addtolists on input line 394.
+
+<../pic/up-uhh-logo-u-2010-u-farbe-u-rgb.pdf, id=71, 393.93175pt x 127.66696pt>
 File: ../pic/up-uhh-logo-u-2010-u-farbe-u-rgb.pdf Graphic file (type pdf)
-
 <use ../pic/up-uhh-logo-u-2010-u-farbe-u-rgb.pdf>
 Package pdftex.def Info: ../pic/up-uhh-logo-u-2010-u-farbe-u-rgb.pdf used on in
-put line 364.
+put line 397.
 (pdftex.def)             Requested size: 193.47882pt x 62.70345pt.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 370.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 403.
 
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
-File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
-LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 15.89755pt on input line 370.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 15.89755pt on input line 403.
 Package microtype Info: Loading generic settings for font family
-(microtype)             `phv' (encoding: OT1).
+(microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 370.
-LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 15.89755pt on input line 370.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 403.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 15.89755pt on input line 403.
 
-Underfull \hbox (badness 10000) in paragraph at lines 370--370
- []\OT1/phv/b/n/17.28 Master The-sis 
+Underfull \hbox (badness 2005) in paragraph at lines 403--403
+ \T1/phv/b/n/17.28 und Bachelor-, Master- und Di-plom-ar-bei-ten 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--376
- []\OT1/ptm/m/n/17.28 Alvin Rindra Fazrie 
+Underfull \hbox (badness 10000) in paragraph at lines 409--409
+ []\T1/ptm/m/n/17.28 Hannes Fe-der-rath 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--382
- []\OT1/ptm/m/n/17.28 January 1, 2018 
+Underfull \hbox (badness 10000) in paragraph at lines 413--415
+ []\T1/ptm/m/n/17.28 7. Ja-nu-ar 2018 
  []
 
-[2
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 419.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 419.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 419.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 419.
+[1
 
 
- <../pic/up-uhh-logo-u-2010-u-farbe-u-rgb.pdf>]
-LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 389.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 389.
-LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 11.03998pt on input line 389.
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../pic/up-uhh-logo-u-2010-
+u-farbe-u-rgb.pdf>]
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 422.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 422.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 11.03998pt on input line 422.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 426.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 426.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 426.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 426.
+ [2
+
+]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 432.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 432.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 432.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 432.
  [3
 
-] [4
-
 ]
-Package tocbasic Info: character protrusion at toc deactivated on input line 39
-9.
+Package tocbasic Info: character protrusion at toc deactivated on input line 43
+2.
+ (./hinweiseabschlussarbeit.toc
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 9.
 
-(./hinweiseabschlussarbeit.toc)
-\tf@toc=\write4
-\openout4 = `hinweiseabschlussarbeit.toc'.
 
- [5
-
-]
-chapter 1.
-
-Class scrreprt Warning: \float@addtolists detected!
-(scrreprt)              Implementation of \float@addtolist became
-(scrreprt)              deprecated in KOMA-Script v3.01 2008/11/14 and
-(scrreprt)              has been replaced by several more flexible
-(scrreprt)              features of package `tocbasic`.
-(scrreprt)              Since Version 3.12 support for deprecated
-(scrreprt)              \float@addtolist interface has been
-(scrreprt)              restricted to only some of the KOMA-Script
-(scrreprt)              features and been removed from others.
-(scrreprt)              Loading of package `scrhack' may help to
-(scrreprt)              avoid this warning, if you are using a
-(scrreprt)              a package that still implements the
-(scrreprt)              deprecated \float@addtolist interface .
-
-[6
-
-]
-chapter 2.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 411.
-LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 13.24796pt on input line 411.
-
-! LaTeX Error: Command \quotedblbase unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.417 ...nschaftlicher Publikationen auf deren „
-                                                  Klang“ \cite{Tolk2003} z...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 417.
-
-LaTeX Warning: Citation `Tolk2003' on page 7 undefined on input line 417.
-
-[7
-
-]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 444.
-
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 444.
-
-! Undefined control sequence.
-l.444 	\item Google Scholar (\url
-                                 {http://scholar.google.com}),
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.445 	\item Microsoft Academic Search (\href
-                                             {http://academic.research.micro...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Misplaced alignment tab character &.
-l.445 ...c.research.microsoft.com/?SearchDomain=2&
-                                                  SubDomain=2&entitytype=2}{...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.445 ...icrosoft.com/?SearchDomain=2&SubDomain=2&
-                                                  entitytype=2}{http://acade...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 44
-5.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
@@ -1151,2659 +1818,561 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `ztmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 44
-5.
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 9.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 44
-5.
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 9.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 44
-5.
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 9.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 9.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 445.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 445.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+))
+\tf@toc=\write7
+\openout7 = `hinweiseabschlussarbeit.toc'.
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 434.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 434.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 434.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 434.
+ [4
+
+]
+chapter 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 434.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 434.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 440.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 440.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 440.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 440.
+[5
+
+]
+chapter 2.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 440.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 440.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 444.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 13.24796pt on input line 444.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 444.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 444.
+
+LaTeX Warning: Citation 'Tolk2003' on page 6 undefined on input line 450.
+
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 450.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 452.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 452.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 467.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 467.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 467.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 467.
+[6
+
+]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 477.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
 )
-Overfull \hbox (307.13217pt too wide) in paragraph at lines 445--446
-[]\OT1/ptm/m/n/12 (-20) Microsoft Aca-demic Search (http://academic.research.mi
-crosoft.com/?SearchDomain=2SubDomain=2entitytype=2http://academic.research.micr
-osoft.com)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 477.
+
+Overfull \hbox (0.82805pt too wide) in paragraph at lines 478--479
+[]\T1/ptm/m/n/12 (-20) Microsoft Aca-de-mic Search ([]http://academic.research.
+microsoft.com[]) $\OMS/ztmcm/m/n/12 !$ \T1/ptm/m/n/12 (-20) com-pu-ter science
  []
 
-! Undefined control sequence.
-l.446 	\item Computer Science Bibliography (\url
-                                                {http://dblp.uni-trier.de/})...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.447 ...ientific Literature Digital Library (\url
-                                                  {http://citeseer.nj.nec.co...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[8]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 491.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 491.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 491.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 491.
+[7]
 chapter 3.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 491.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 491.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 493.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 493.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 501.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 501.
 
-! LaTeX Error: Command \quotedblbase unavailable in encoding OT1.
+LaTeX Warning: Citation 'Schl2013' on page 8 undefined on input line 509.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.466 ...ge, dass sie womöglich nicht auf die „
-                                                  übliche“ Seitenzahl kom...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Citation `Schl2013' on page 9 undefined on input line 476.
-
-[9
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 512.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 512.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 512.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 512.
+[8
 
 ]
 
-! LaTeX Error: Command \quotedblbase unavailable in encoding OT1.
+LaTeX Warning: Citation 'Bier2009' on page 9 undefined on input line 513.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.480 ...e kompakte und sehr hilfreiche Arbeit „
-                                                  typokurz -- Einige wichtig...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Citation `Bier2009' on page 10 undefined on input line 480.
-
-
-! LaTeX Error: Command \quotedblbase unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.482 .... Im Deutschen sollten z.\,B. nur die „
-                                                  Gänsefüßchen“ (links ...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \quotedblbase unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.482 ...h hier die korrekte Verwendung: Weder „
-                                                  dies” noch {\verb#"#}das...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 482.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 515.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 Package microtype Info: Loading generic settings for font family
-(microtype)             `pcr' (encoding: OT1).
+(microtype)             `pcr' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
 
-LaTeX Warning: Citation `textwahrnehmung' on page 10 undefined on input line 48
-4.
+LaTeX Warning: Citation 'textwahrnehmung' on page 9 undefined on input line 517
+.
 
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 519.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 519.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 524.
 
-! LaTeX Error: Command \quotedblbase unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.484 ... die Textwahrnehmung verbessern kann: „
-                                                  Schreib so einfach und deu...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 491.
-[10
-Non-PDF special ignored!]
-LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <10> not available
-(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 601.
-
-! Undefined control sequence.
-\lst@keywordstyle ->\bfseries \color 
-                                     {green!50!black}
-l.601 int 
-          getGGTOf(int a, int b) {
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@keywordstyle ->\bfseries \color 
-                                     {green!50!black}
-l.601 int getGGTOf(int 
-                       a, int b) {
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@keywordstyle ->\bfseries \color 
-                                     {green!50!black}
-l.601 int getGGTOf(int a, int 
-                              b) {
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-LaTeX Font Info:    Font shape `OT1/pcr/m/it' in size <10> not available
-(Font)              Font shape `OT1/pcr/m/sl' tried instead on input line 602.
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     //
-             requires ((a > 0) && (b > 0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     //
-             requires ((a > 0) && (b > 0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // 
-             requires ((a > 0) && (b > 0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires 
-                      ((a > 0) && (b > 0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires 
-                      ((a > 0) && (b > 0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires ((a
-                          > 0) && (b > 0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires ((a 
-                          > 0) && (b > 0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires ((a 
-                          > 0) && (b > 0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires ((a > 
-                            0) && (b > 0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires ((a > 
-                            0) && (b > 0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires ((a > 0)
-                               && (b > 0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires ((a > 0) 
-                               && (b > 0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires ((a > 0) && 
-                                  (b > 0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires ((a > 0) && 
-                                  (b > 0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires ((a > 0) && (b
-                                     > 0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires ((a > 0) && (b 
-                                     > 0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires ((a > 0) && (b 
-                                     > 0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires ((a > 0) && (b > 
-                                       0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires ((a > 0) && (b > 
-                                       0)); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires ((a > 0) && (b > 0)
-                                         ); ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires ((a > 0) && (b > 0))
-                                          ; ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires ((a > 0) && (b > 0)); 
-                                            ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602     // requires ((a > 0) && (b > 0)); 
-                                            ensures return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602 .../ requires ((a > 0) && (b > 0)); ensures 
-                                                  return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602 .../ requires ((a > 0) && (b > 0)); ensures 
-                                                  return > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602 ...res ((a > 0) && (b > 0)); ensures return 
-                                                  > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602 ...res ((a > 0) && (b > 0)); ensures return 
-                                                  > 0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602 ...s ((a > 0) && (b > 0)); ensures return > 
-                                                  0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602 ...s ((a > 0) && (b > 0)); ensures return > 
-                                                  0;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.602 ...((a > 0) && (b > 0)); ensures return > 0;
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (30.59161pt too wide) in paragraph at lines 602--603
-[]\OT1/pcr/m/sl/10 magenta!90!black[]magenta!90!black[]magenta!90!black[]magent
-a!90!black[] 
+Underfull \hbox (badness 10000) in paragraph at lines 620--621
+ [][] 
  []
 
-! Undefined control sequence.
-\lst@keywordstyle ->\bfseries \color 
-                                     {green!50!black}
-l.603     int 
-              h;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 629.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 629.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 629.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 629.
+[9
+Non-PDF special ignored!]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 633.
+LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <10> not available
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 634.
+LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <10> not available
+(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 635.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 646.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 646.
 
-! Undefined control sequence.
-\lst@keywordstyle ->\bfseries \color 
-                                     {green!50!black}
-l.604     while 
-                (b != 0) {
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606         b = a % b; //
-                            % is the modulo operator. This line is long enou...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: Citation 'Beut2009' on page 10 undefined on input line 656.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606         b = a % b; // 
-                            % is the modulo operator. This line is long enou...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606         b = a % b; // % 
-                              is the modulo operator. This line is long enou...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: Citation 'ScWe2007' on page 10 undefined on input line 656.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606         b = a % b; // % 
-                              is the modulo operator. This line is long enou...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606         b = a % b; // % is 
-                                 the modulo operator. This line is long enou...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: Citation 'Kili2006' on page 10 undefined on input line 660.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606         b = a % b; // % is 
-                                 the modulo operator. This line is long enou...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606         b = a % b; // % is the 
-                                     modulo operator. This line is long enou...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: Citation 'Lamp1981' on page 10 undefined on input line 660.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606         b = a % b; // % is the 
-                                     modulo operator. This line is long enou...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606         b = a % b; // % is the modulo 
-                                            operator. This line is long enou...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: Citation 'ThKZ2002' on page 10 undefined on input line 660.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606         b = a % b; // % is the modulo 
-                                            operator. This line is long enou...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...  b = a % b; // % is the modulo operator.
-                                                   This line is long enough ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: Citation 'InBr2009' on page 10 undefined on input line 664.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ... b = a % b; // % is the modulo operator. 
-                                                  This line is long enough t...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ... b = a % b; // % is the modulo operator. 
-                                                  This line is long enough t...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: Citation 'WWPK2010' on page 10 undefined on input line 664.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...a % b; // % is the modulo operator. This 
-                                                  line is long enough to sho...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...a % b; // % is the modulo operator. This 
-                                                  line is long enough to sho...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: Citation 'HSFN2009' on page 10 undefined on input line 664.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...; // % is the modulo operator. This line 
-                                                  is long enough to show how...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...; // % is the modulo operator. This line 
-                                                  is long enough to show how...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: Citation 'CCC2009' on page 10 undefined on input line 668.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 .../ % is the modulo operator. This line is 
-                                                  long enough to show how li...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 .../ % is the modulo operator. This line is 
-                                                  long enough to show how li...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: Citation 'Heise2011' on page 10 undefined on input line 668.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...s the modulo operator. This line is long 
-                                                  enough to show how line br...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...s the modulo operator. This line is long 
-                                                  enough to show how line br...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: Citation 'textwahrnehmung' on page 10 undefined on input line 66
+8.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...odulo operator. This line is long enough 
-                                                  to show how line breaks in...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 670.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 670.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 670.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 670.
+[10]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 681.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 681.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...odulo operator. This line is long enough 
-                                                  to show how line breaks in...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...lo operator. This line is long enough to 
-                                                  show how line breaks in ls...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: Citation 'Wiki' on page 11 undefined on input line 685.
 
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...lo operator. This line is long enough to 
-                                                  show how line breaks in ls...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...erator. This line is long enough to show 
-                                                  how line breaks in lstlist...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...erator. This line is long enough to show 
-                                                  how line breaks in lstlist...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...or. This line is long enough to show how 
-                                                  line breaks in lstlisting ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...or. This line is long enough to show how 
-                                                  line breaks in lstlisting ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...his line is long enough to show how line 
-                                                  breaks in lstlisting are h...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...his line is long enough to show how line 
-                                                  breaks in lstlisting are h...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...e is long enough to show how line breaks 
-                                                  in lstlisting are handled.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...e is long enough to show how line breaks 
-                                                  in lstlisting are handled.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...s long enough to show how line breaks in 
-                                                  lstlisting are handled.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...s long enough to show how line breaks in 
-                                                  lstlisting are handled.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...gh to show how line breaks in lstlisting 
-                                                  are handled.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...gh to show how line breaks in lstlisting 
-                                                  are handled.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...o show how line breaks in lstlisting are 
-                                                  handled.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...o show how line breaks in lstlisting are 
-                                                  handled.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...ow line breaks in lstlisting are handled.
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@commentstyle ->\itshape \color 
-                                    {magenta!90!black}
-l.606 ...ow line breaks in lstlisting are handled.
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\lst@keywordstyle ->\bfseries \color 
-                                     {green!50!black}
-l.609     return 
-                 a;
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Citation `Beut2009' on page 11 undefined on input line 623.
-
-
-LaTeX Warning: Citation `ScWe2007' on page 11 undefined on input line 623.
-
-
-LaTeX Warning: Citation `Kili2006' on page 11 undefined on input line 627.
-
-
-LaTeX Warning: Citation `Lamp1981' on page 11 undefined on input line 627.
-
-
-LaTeX Warning: Citation `ThKZ2002' on page 11 undefined on input line 627.
-
-
-LaTeX Warning: Citation `InBr2009' on page 11 undefined on input line 631.
-
-
-LaTeX Warning: Citation `WWPK2010' on page 11 undefined on input line 631.
-
-
-LaTeX Warning: Citation `HSFN2009' on page 11 undefined on input line 631.
-
-
-LaTeX Warning: Citation `CCC2009' on page 11 undefined on input line 635.
-
-
-LaTeX Warning: Citation `Heise2011' on page 11 undefined on input line 635.
-
-
-LaTeX Warning: Citation `textwahrnehmung' on page 11 undefined on input line 63
-5.
-
-
-LaTeX Warning: Reference `sec:literaturliste' on page 11 undefined on input lin
-e 646.
-
-
-LaTeX Warning: Citation `Wiki' on page 11 undefined on input line 652.
-
-[11] [12]
-! Undefined control sequence.
-<argument> ...notesep \ignorespaces TeXworks \url 
-                                                  {http://www.tug.org/texwor...
-l.656 ...ser plattformunabhängiger LaTeX-Editor.}
-                                                   Zusätzlich lohnt es sich...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[13]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 687.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 687.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 689.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 689.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 689.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 697.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 697.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 697.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 697.
+[11]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 697.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 697.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 697.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 697.
+ [12]
 chapter 4.
-[14
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 697.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 697.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 701.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 701.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 711.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 711.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 721.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 721.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 721.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 721.
+[13
 
 ]
 
-LaTeX Warning: Citation `faui2' on page 15 undefined on input line 692.
+LaTeX Warning: Citation 'faui2' on page 14 undefined on input line 725.
 
 
-LaTeX Warning: Citation `faui2' on page 15 undefined on input line 692.
+LaTeX Warning: Citation 'faui2' on page 14 undefined on input line 725.
 
-[15]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 727.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 727.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 739.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 739.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 739.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 739.
+[14]
 chapter 5.
-! Undefined control sequence.
-<recently read> \url 
-                     
-l.711 ... Pausch Lecture: Time Management. \\ \url
-                                                  {http://www.youtube.com/wa...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 739.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 739.
 
-! Undefined control sequence.
-<recently read> \url 
-                     
-l.712 ...d Hamming: You and Your Research. \\ \url
-                                                  {http://www.cs.virginia.ed...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \url 
-                     
-l.713 ...ster: Writing Tips for Academics. \\ \url
-                                                  {http://greatresearch.org/...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: Citation 'Posp2012' on page 15 undefined on input line 749.
 
 
-! LaTeX Error: Command \quotedblbase unavailable in encoding OT1.
+LaTeX Warning: Empty bibliography on input line 757.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.716 ...ere Empfehlung ist der Duden-Ratgeber „
-                                                  Wie schreibt man wissensch...
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 769.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 769.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 769.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 769.
+[15
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+]
+
+LaTeX Warning: Citation 'faui2' on page 16 undefined on input line 771.
 
 
-LaTeX Warning: Citation `Posp2012' on page 16 undefined on input line 716.
+Underfull \hbox (badness 10000) in paragraph at lines 778--791
+ [][] 
+ []
 
-! Undefined control sequence.
-l.724   \printbibliography
-                                  % Falls Biblatex verwendet wird.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
+Underfull \hbox (badness 10000) in paragraph at lines 804--823
+ [][] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 834.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 834.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 834.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 834.
 [16
 
 ]
-
-LaTeX Warning: Citation `faui2' on page 17 undefined on input line 738.
-
-
-! LaTeX Error: Environment tabu undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.745 \begin{tabu}
-                  {lcrl}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Misplaced \noalign.
-\toprule ->\noalign 
-                    {\ifnum 0=`}\fi \@aboverulesep =\abovetopsep \global \@b...
-l.746 	\toprule
-               
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.747 	\multicolumn{3}{l}{Punktzahl}
-                                     & Aspekt\\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.747 	\multicolumn{3}{l}{Punktzahl}
-                                     & Aspekt\\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.747 	\multicolumn{3}{l}{Punktzahl}
-                                     & Aspekt\\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.747 	\multicolumn{3}{l}{Punktzahl}
-                                     & Aspekt\\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.747 	\multicolumn{3}{l}{Punktzahl}
-                                     & Aspekt\\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Undefined control sequence.
-<argument> ...nextchar \ifcase \@chclass \@classz 
-                                                  \or \@classi \or \@classii...
-l.747 	\multicolumn{3}{l}{Punktzahl}
-                                     & Aspekt\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
-                                                  \or \or \@preamerr \@ne \o...
-l.747 	\multicolumn{3}{l}{Punktzahl}
-                                     & Aspekt\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Misplaced alignment tab character &.
-l.747 	\multicolumn{3}{l}{Punktzahl} &
-                                       Aspekt\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \noalign.
-\midrule ->\noalign 
-                    {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.748 	\midrule
-               
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 747--749
-
- []
-
-! Misplaced alignment tab character &.
-l.749 	0 &
-           -- & 6  & Schwierigkeitsgrad\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.749 	0 & -- &
-                6  & Schwierigkeitsgrad\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.749 	0 & -- & 6  &
-                     Schwierigkeitsgrad\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.750 	0 &
-           -- & 8  & Schöpferische Originalität\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.750 	0 & -- &
-                8  & Schöpferische Originalität\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.750 	0 & -- & 8  &
-                     Schöpferische Originalität\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.751 	0 &
-           -- & 10 & wissenschaftliche Arbeitstechnik\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.751 	0 & -- &
-                10 & wissenschaftliche Arbeitstechnik\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.751 	0 & -- & 10 &
-                     wissenschaftliche Arbeitstechnik\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.752 	0 &
-           -- & 4  & Stil\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.752 	0 & -- &
-                4  & Stil\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.752 	0 & -- & 4  &
-                     Stil\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.753 	0 &
-           -- & 3  & Äußere Form\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.753 	0 & -- &
-                3  & Äußere Form\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.753 	0 & -- & 3  &
-                     Äußere Form\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \noalign.
-\midrule ->\noalign 
-                    {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.754 	\midrule
-               
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 749--755
-
- []
-
-! Misplaced alignment tab character &.
-l.755 	0 &
-           -- & 31 & Summe\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.755 	0 & -- &
-                31 & Summe\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.755 	0 & -- & 31 &
-                     Summe\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
-! LaTeX Error: \begin{table} on input line 744 ended by \end{tabu}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.757 \end{tabu}
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 755--758
-
- []
-
-
-! LaTeX Error: Environment tabu undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.771 \begin{tabu}
-                  {lp{6cm}}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Misplaced \noalign.
-\toprule ->\noalign 
-                    {\ifnum 0=`}\fi \@aboverulesep =\abovetopsep \global \@b...
-l.772 	\toprule
-               
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced alignment tab character &.
-l.773 	Punktzahl  &
-                    Note \\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \noalign.
-\midrule ->\noalign 
-                    {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.774 	\midrule
-               
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 773--775
-
- []
-
-! Misplaced alignment tab character &.
-l.775 	31--29 &
-                  1,0 \quad  sehr gut\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.776 	28--27 &
-                  1,3\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \noalign.
-\midrule ->\noalign 
-                    {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.777 	\midrule
-               
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 775--778
-
- []
-
-! Misplaced alignment tab character &.
-l.778 	26--25 &
-                  1,7\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.779 	24--23 &
-                  2,0 \quad  gut\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.780 	22--21 &
-                  2,3\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \noalign.
-\midrule ->\noalign 
-                    {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.781 	\midrule
-               
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 778--782
-
- []
-
-! Misplaced alignment tab character &.
-l.782 	20--19 &
-                  2,7 \\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.783 	18--17 &
-                  3,0 \quad  befriedigend\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.784 	16--15 &
-                  3,3\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \noalign.
-\midrule ->\noalign 
-                    {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.785 	\midrule
-               
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 782--786
-
- []
-
-! Misplaced alignment tab character &.
-l.786 	14--13 &
-                  3,7\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.787 	12--11 &
-                  4,0 \quad  ausreichend\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \noalign.
-\bottomrule ->\noalign 
-                       {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global...
-l.788 	\bottomrule
-                  
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 786--789
-
- []
-
-
-! LaTeX Error: \begin{table} on input line 770 ended by \end{tabu}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.789 \end{tabu}
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[17
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 850.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 850.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 850.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 850.
+ [17]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 850.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 850.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 850.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 850.
+ [18]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 891.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 891.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 891.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 891.
+ [19
 
 ]
-Overfull \hbox (2.84193pt too wide) in paragraph at lines 800--801
-\OT1/ptm/m/n/12 (-20) stverst[]andlich, dass der Bear-beiter Ini-tia-tive en-tw
-ick-elt, d.h. aus eigenem Antrieb Schwierigkeiten
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 894.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 912.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 912.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 912.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 912.
+ [20
+
+]
+File: ../pic/up-uhh-logo-u-2010-u-farbe-u-rgb.pdf Graphic file (type pdf)
+ <use ../pic/up-uhh-logo-u-2010-u-farbe-u-rgb.pdf>
+Package pdftex.def Info: ../pic/up-uhh-logo-u-2010-u-farbe-u-rgb.pdf used on in
+put line 916.
+(pdftex.def)             Requested size: 193.47882pt x 62.70345pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 921--922
+ []\T1/ptm/m/n/17.28 Masterarbeit 
  []
 
-[18] [19]
-
-! LaTeX Error: Environment tabu undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.819     \begin{tabu}
-                       to 1.2\textwidth {|l|X|X|X|X|X|X|X|X|}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   {
-l.819     \begin{tabu} to 1.2\textwidth {
-                                         |l|X|X|X|X|X|X|X|X|}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   {
-l.819     \begin{tabu} to 1.2\textwidth {
-                                         |l|X|X|X|X|X|X|X|X|}
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.820 ...n{6}{l}{\textbf{Präsentationsbewertung}}
-                                                   \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.820 ...n{6}{l}{\textbf{Präsentationsbewertung}}
-                                                   \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.820 ...n{6}{l}{\textbf{Präsentationsbewertung}}
-                                                   \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.820 ...n{6}{l}{\textbf{Präsentationsbewertung}}
-                                                   \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.820 ...n{6}{l}{\textbf{Präsentationsbewertung}}
-                                                   \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.820 ...n{6}{l}{\textbf{Präsentationsbewertung}}
-                                                   \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.820 ...n{6}{l}{\textbf{Präsentationsbewertung}}
-                                                   \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.820 ...n{6}{l}{\textbf{Präsentationsbewertung}}
-                                                   \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.820 ...n{6}{l}{\textbf{Präsentationsbewertung}}
-                                                   \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.820 ...n{6}{l}{\textbf{Präsentationsbewertung}}
-                                                   \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.820 ...n{6}{l}{\textbf{Präsentationsbewertung}}
-                                                   \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Undefined control sequence.
-<argument> ...nextchar \ifcase \@chclass \@classz 
-                                                  \or \@classi \or \@classii...
-l.820 ...n{6}{l}{\textbf{Präsentationsbewertung}}
-                                                   \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
-                                                  \or \or \@preamerr \@ne \o...
-l.820 ...n{6}{l}{\textbf{Präsentationsbewertung}}
-                                                   \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.821     \multicolumn{6}{l}{}
-                               \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.821     \multicolumn{6}{l}{}
-                               \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.821     \multicolumn{6}{l}{}
-                               \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.821     \multicolumn{6}{l}{}
-                               \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.821     \multicolumn{6}{l}{}
-                               \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.821     \multicolumn{6}{l}{}
-                               \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.821     \multicolumn{6}{l}{}
-                               \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.821     \multicolumn{6}{l}{}
-                               \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.821     \multicolumn{6}{l}{}
-                               \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.821     \multicolumn{6}{l}{}
-                               \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.821     \multicolumn{6}{l}{}
-                               \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Undefined control sequence.
-<argument> ...nextchar \ifcase \@chclass \@classz 
-                                                  \or \@classi \or \@classii...
-l.821     \multicolumn{6}{l}{}
-                               \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
-                                                  \or \or \@preamerr \@ne \o...
-l.821     \multicolumn{6}{l}{}
-                               \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.822     \hline
-                
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.822     \hline
-                
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.822     \hline
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.822     \hline
-                
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Misplaced alignment tab character &.
-l.823 ...atum                                    &
-                                                   & & & & & & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.823 ...um                                    & &
-                                                   & & & & & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.823 ...                                    & & &
-                                                   & & & & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.823 ...                                  & & & &
-                                                   & & & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.823 ...                                & & & & &
-                                                   & & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.823 ...                              & & & & & &
-                                                   & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.823 ...                            & & & & & & &
-                                                   \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.823 ...                  & & & & & & & \\ \hline
-                                                  
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.823 ...                  & & & & & & & \\ \hline
-                                                  
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.823 ...                  & & & & & & & \\ \hline
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.823 ...                  & & & & & & & \\ \hline
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Misplaced alignment tab character &.
-l.824 ...ame                                     &
-                                                   & & & & & & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.824 ...e                                     & &
-                                                   & & & & & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.824 ...                                    & & &
-                                                   & & & & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.824 ...                                  & & & &
-                                                   & & & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.824 ...                                & & & & &
-                                                   & & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.824 ...                              & & & & & &
-                                                   & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.824 ...                            & & & & & & &
-                                                   \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.824 ...                  & & & & & & & \\ \hline
-                                                  
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.824 ...                  & & & & & & & \\ \hline
-                                                  
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.824 ...                  & & & & & & & \\ \hline
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.824 ...                  & & & & & & & \\ \hline
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Misplaced alignment tab character &.
-l.825 ...hema                                    &
-                                                   & & & & & & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.825 ...ma                                    & &
-                                                   & & & & & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.825 ...                                    & & &
-                                                   & & & & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.825 ...                                  & & & &
-                                                   & & & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.825 ...                                & & & & &
-                                                   & & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.825 ...                              & & & & & &
-                                                   & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.825 ...                            & & & & & & &
-                                                   \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.825 ...                  & & & & & & & \\ \hline
-                                                  
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.825 ...                  & & & & & & & \\ \hline
-                                                  
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.825 ...                  & & & & & & & \\ \hline
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.825 ...                  & & & & & & & \\ \hline
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.826     \multicolumn{6}{l}{}
-                               \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.826     \multicolumn{6}{l}{}
-                               \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.826     \multicolumn{6}{l}{}
-                               \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.826     \multicolumn{6}{l}{}
-                               \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.826     \multicolumn{6}{l}{}
-                               \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.826     \multicolumn{6}{l}{}
-                               \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.826     \multicolumn{6}{l}{}
-                               \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.826     \multicolumn{6}{l}{}
-                               \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.826     \multicolumn{6}{l}{}
-                               \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.826     \multicolumn{6}{l}{}
-                               \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.826     \multicolumn{6}{l}{}
-                               \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Undefined control sequence.
-<argument> ...nextchar \ifcase \@chclass \@classz 
-                                                  \or \@classi \or \@classii...
-l.826     \multicolumn{6}{l}{}
-                               \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
-                                                  \or \or \@preamerr \@ne \o...
-l.826     \multicolumn{6}{l}{}
-                               \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.827     \multicolumn{6}{l}{\textbf{Stil}}
-                                            \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.827     \multicolumn{6}{l}{\textbf{Stil}}
-                                            \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.827     \multicolumn{6}{l}{\textbf{Stil}}
-                                            \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.827     \multicolumn{6}{l}{\textbf{Stil}}
-                                            \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.827     \multicolumn{6}{l}{\textbf{Stil}}
-                                            \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.827     \multicolumn{6}{l}{\textbf{Stil}}
-                                            \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.827     \multicolumn{6}{l}{\textbf{Stil}}
-                                            \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.827     \multicolumn{6}{l}{\textbf{Stil}}
-                                            \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.827     \multicolumn{6}{l}{\textbf{Stil}}
-                                            \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.827     \multicolumn{6}{l}{\textbf{Stil}}
-                                            \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.827     \multicolumn{6}{l}{\textbf{Stil}}
-                                            \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Undefined control sequence.
-<argument> ...nextchar \ifcase \@chclass \@classz 
-                                                  \or \@classi \or \@classii...
-l.827     \multicolumn{6}{l}{\textbf{Stil}}
-                                            \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
-                                                  \or \or \@preamerr \@ne \o...
-l.827     \multicolumn{6}{l}{\textbf{Stil}}
-                                            \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.828     \hline
-                
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.828     \hline
-                
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.828     \hline
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.828     \hline
-                
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Misplaced alignment tab character &.
-l.829 ...icheres Auftreten                       &
-                                                   & & & & & & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.829 ...heres Auftreten                       & &
-                                                   & & & & & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.829 ...res Auftreten                       & & &
-                                                   & & & & \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.829 ...s Auftreten                       & & & &
-                                                   & & & \\ \hline
-(That makes 100 errors; please try again.) 
+
+Underfull \hbox (badness 2005) in paragraph at lines 924--924
+ \T1/phv/b/n/17.28 und Bachelor-, Master- und Di-plom-ar-bei-ten 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 927--928
+ []\T1/ptm/m/n/17.28 vorgelegt von 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 930--930
+ []\T1/ptm/m/n/17.28 Hannes Fe-der-rath 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 932--932
+ []\T1/ptm/m/n/17.28 geb. am 8. Ju-ni 1969 in Son-ne-berg 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 933--933
+ []\T1/ptm/m/n/17.28 Matrikelnummer 1234567 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 934--935
+ []\T1/ptm/m/n/17.28 Studiengang In-for-ma-tik 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--939
+ []\T1/ptm/m/n/17.28 eingereicht am 7. Ja-nu-ar 2018 
+ []
+
+
+Underfull \hbox (badness 5388) in paragraph at lines 940--940
+ []\T1/ptm/m/n/17.28 Betreuer: Dipl.-Inf. Heinz Mus-ter-mann [][][] 
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 941--941
+ []\T1/ptm/m/n/17.28 Erstgutachter: Prof. Dr.-Ing. Han-nes Fe-der-rath 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 942--943
+ []\T1/ptm/m/n/17.28 Zweitgutachter: N.N. 
+ []
+
+LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <12> not available
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 949.
+LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 949.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 950.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 950.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 950.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 950.
+[21
+
+
+]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 960.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 976.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 976.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 976.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 976.
+ [22] (./hinweiseabschlussarbeit.tdo)
+\tf@tdo=\write8
+\openout8 = `hinweiseabschlussarbeit.tdo'.
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 977.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 977.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 977.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 977.
+ [23
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 977.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 977.
+ (./hinweiseabschlussarbeit.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 977.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 977.
+Package rerunfilecheck Info: File `hinweiseabschlussarbeit.out' has not changed
+.
+(rerunfilecheck)             Checksum: 6A7467A008AD643F6FDDFF3EE65FAD26;965.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                hinweiseabschlussarbeit
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'hinweiseabschlussarbeit.run.xml'.
+\openout1 = `hinweiseabschlussarbeit.run.xml'.
+
+ ) 
 Here is how much of TeX's memory you used:
- 9425 strings out of 494910
- 140770 string characters out of 6179837
- 337182 words of memory out of 5000000
- 12386 multiletter control sequences out of 15000+600000
- 39872 words of font info for 159 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 47i,8n,66p,775b,1259s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32291 strings out of 494860
+ 571625 string characters out of 6177603
+ 1100727 words of memory out of 5000000
+ 34769 multiletter control sequences out of 15000+600000
+ 71767 words of font info for 204 fonts, out of 8000000 for 9000
+ 40 hyphenation exceptions out of 8191
+ 73i,15n,76p,863b,1676s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/latxfont/line10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/urw/courier/ucrb8a.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier
+/ucrro8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/urw/times/utmri8a.pfb>
+Output written on hinweiseabschlussarbeit.pdf (23 pages, 159950 bytes).
+PDF statistics:
+ 318 PDF objects out of 1000 (max. 8388607)
+ 277 compressed objects within 3 object streams
+ 79 named destinations out of 1000 (max. 500000)
+ 40594 words of extra memory for PDF output out of 42996 (max. 10000000)
 
->>>>>>> revert-scheduling
-!  ==> Fatal error occurred, no output PDF file produced!
