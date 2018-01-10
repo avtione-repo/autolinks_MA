@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.7)  8 JAN 2018 22:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.7)  10 JAN 2018 23:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -409,32 +409,14 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2016/02/24 3.9q The Babel package
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel-german/ngerman.ldf
-Language: ngerman 2013/12/13 v2.7 German support for babel (new orthography)
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel-german/ngermanb.ldf
-Language: ngermanb 2013/12/13 v2.7 German support for babel (new orthography)
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2016/02/24 3.9q Babel common definitions
-\babel@savecnt=\count89
-\U@D=\dimen103
-)
-\l@naustrian = a dialect from \language\l@ngerman 
-\l@nswissgerman = a dialect from \language\l@ngerman 
-Package babel Info: Making " an active character on input line 88.
-)))
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
 \MT@toks=\toks17
-\MT@count=\count90
+\MT@count=\count89
 LaTeX Info: Redefining \textls on input line 766.
-\MT@outer@kern=\dimen104
+\MT@outer@kern=\dimen103
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
-\MT@listname@count=\count91
+\MT@listname@count=\count90
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
@@ -453,14 +435,14 @@ Package: csquotes 2016/01/31 v5.1g context-sensitive quotations (JAW)
 
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count92
+\etb@tempcnta=\count91
 )
-\csq@reset=\count93
-\csq@gtype=\count94
-\csq@glevel=\count95
-\csq@qlevel=\count96
-\csq@maxlvl=\count97
-\csq@tshold=\count98
+\csq@reset=\count92
+\csq@gtype=\count93
+\csq@glevel=\count94
+\csq@qlevel=\count95
+\csq@maxlvl=\count96
+\csq@tshold=\count97
 \csq@ltx@everypar=\toks18
 
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
@@ -581,7 +563,7 @@ Package etexcmds Info: Could not find \expanded.
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count99
+\lrq@indent=\count98
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -593,44 +575,44 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count100
-\c@listtotal=\count101
-\c@listcount=\count102
-\c@liststart=\count103
-\c@liststop=\count104
-\c@citecount=\count105
-\c@citetotal=\count106
-\c@multicitecount=\count107
-\c@multicitetotal=\count108
-\c@instcount=\count109
-\c@maxnames=\count110
-\c@minnames=\count111
-\c@maxitems=\count112
-\c@minitems=\count113
-\c@citecounter=\count114
-\c@savedcitecounter=\count115
-\c@uniquelist=\count116
-\c@uniquename=\count117
-\c@refsection=\count118
-\c@refsegment=\count119
-\c@maxextratitle=\count120
-\c@maxextratitleyear=\count121
-\c@maxextrayear=\count122
-\c@maxextraalpha=\count123
-\c@abbrvpenalty=\count124
-\c@highnamepenalty=\count125
-\c@lownamepenalty=\count126
-\c@maxparens=\count127
-\c@parenlevel=\count128
-\blx@tempcnta=\count129
-\blx@tempcntb=\count130
-\blx@tempcntc=\count131
-\blx@maxsection=\count132
-\blx@maxsegment@0=\count133
-\blx@notetype=\count134
-\blx@parenlevel@text=\count135
-\blx@parenlevel@foot=\count136
-\blx@sectionciteorder@0=\count137
+\c@tabx@nest=\count99
+\c@listtotal=\count100
+\c@listcount=\count101
+\c@liststart=\count102
+\c@liststop=\count103
+\c@citecount=\count104
+\c@citetotal=\count105
+\c@multicitecount=\count106
+\c@multicitetotal=\count107
+\c@instcount=\count108
+\c@maxnames=\count109
+\c@minnames=\count110
+\c@maxitems=\count111
+\c@minitems=\count112
+\c@citecounter=\count113
+\c@savedcitecounter=\count114
+\c@uniquelist=\count115
+\c@uniquename=\count116
+\c@refsection=\count117
+\c@refsegment=\count118
+\c@maxextratitle=\count119
+\c@maxextratitleyear=\count120
+\c@maxextrayear=\count121
+\c@maxextraalpha=\count122
+\c@abbrvpenalty=\count123
+\c@highnamepenalty=\count124
+\c@lownamepenalty=\count125
+\c@maxparens=\count126
+\c@parenlevel=\count127
+\blx@tempcnta=\count128
+\blx@tempcntb=\count129
+\blx@tempcntc=\count130
+\blx@maxsection=\count131
+\blx@maxsegment@0=\count132
+\blx@notetype=\count133
+\blx@parenlevel@text=\count134
+\blx@parenlevel@foot=\count135
+\blx@sectionciteorder@0=\count136
 \labelnumberwidth=\skip63
 \labelalphawidth=\skip64
 \biblabelsep=\skip65
@@ -641,9 +623,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip70
 \blx@bcfin=\read1
 \blx@bcfout=\write3
-\c@mincomprange=\count138
-\c@maxcomprange=\count139
-\c@mincompwidth=\count140
+\c@mincomprange=\count137
+\c@maxcomprange=\count138
+\c@mincompwidth=\count139
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -652,72 +634,72 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'alphabetic.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count141
-\c@savedafterword=\count142
-\c@annotator=\count143
-\c@savedannotator=\count144
-\c@author=\count145
-\c@savedauthor=\count146
-\c@bookauthor=\count147
-\c@savedbookauthor=\count148
-\c@commentator=\count149
-\c@savedcommentator=\count150
-\c@editor=\count151
-\c@savededitor=\count152
-\c@editora=\count153
-\c@savededitora=\count154
-\c@editorb=\count155
-\c@savededitorb=\count156
-\c@editorc=\count157
-\c@savededitorc=\count158
-\c@foreword=\count159
-\c@savedforeword=\count160
-\c@holder=\count161
-\c@savedholder=\count162
-\c@introduction=\count163
-\c@savedintroduction=\count164
-\c@namea=\count165
-\c@savednamea=\count166
-\c@nameb=\count167
-\c@savednameb=\count168
-\c@namec=\count169
-\c@savednamec=\count170
-\c@translator=\count171
-\c@savedtranslator=\count172
-\c@shortauthor=\count173
-\c@savedshortauthor=\count174
-\c@shorteditor=\count175
-\c@savedshorteditor=\count176
-\c@labelname=\count177
-\c@savedlabelname=\count178
-\c@institution=\count179
-\c@savedinstitution=\count180
-\c@lista=\count181
-\c@savedlista=\count182
-\c@listb=\count183
-\c@savedlistb=\count184
-\c@listc=\count185
-\c@savedlistc=\count186
-\c@listd=\count187
-\c@savedlistd=\count188
-\c@liste=\count189
-\c@savedliste=\count190
-\c@listf=\count191
-\c@savedlistf=\count192
-\c@location=\count193
-\c@savedlocation=\count194
-\c@organization=\count195
-\c@savedorganization=\count196
-\c@origlocation=\count197
-\c@savedoriglocation=\count198
-\c@origpublisher=\count199
-\c@savedorigpublisher=\count266
-\c@publisher=\count267
-\c@savedpublisher=\count268
-\c@language=\count269
-\c@savedlanguage=\count270
-\c@pageref=\count271
-\c@savedpageref=\count272
+\c@afterword=\count140
+\c@savedafterword=\count141
+\c@annotator=\count142
+\c@savedannotator=\count143
+\c@author=\count144
+\c@savedauthor=\count145
+\c@bookauthor=\count146
+\c@savedbookauthor=\count147
+\c@commentator=\count148
+\c@savedcommentator=\count149
+\c@editor=\count150
+\c@savededitor=\count151
+\c@editora=\count152
+\c@savededitora=\count153
+\c@editorb=\count154
+\c@savededitorb=\count155
+\c@editorc=\count156
+\c@savededitorc=\count157
+\c@foreword=\count158
+\c@savedforeword=\count159
+\c@holder=\count160
+\c@savedholder=\count161
+\c@introduction=\count162
+\c@savedintroduction=\count163
+\c@namea=\count164
+\c@savednamea=\count165
+\c@nameb=\count166
+\c@savednameb=\count167
+\c@namec=\count168
+\c@savednamec=\count169
+\c@translator=\count170
+\c@savedtranslator=\count171
+\c@shortauthor=\count172
+\c@savedshortauthor=\count173
+\c@shorteditor=\count174
+\c@savedshorteditor=\count175
+\c@labelname=\count176
+\c@savedlabelname=\count177
+\c@institution=\count178
+\c@savedinstitution=\count179
+\c@lista=\count180
+\c@savedlista=\count181
+\c@listb=\count182
+\c@savedlistb=\count183
+\c@listc=\count184
+\c@savedlistc=\count185
+\c@listd=\count186
+\c@savedlistd=\count187
+\c@liste=\count188
+\c@savedliste=\count189
+\c@listf=\count190
+\c@savedlistf=\count191
+\c@location=\count192
+\c@savedlocation=\count193
+\c@organization=\count194
+\c@savedorganization=\count195
+\c@origlocation=\count196
+\c@savedoriglocation=\count197
+\c@origpublisher=\count198
+\c@savedorigpublisher=\count199
+\c@publisher=\count266
+\c@savedpublisher=\count267
+\c@language=\count268
+\c@savedlanguage=\count269
+\c@pageref=\count270
+\c@savedpageref=\count271
 \shorthandwidth=\skip71
 \shortjournalwidth=\skip72
 \shortserieswidth=\skip73
@@ -735,13 +717,13 @@ Package biblatex Info: ... file 'biblatex_.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex_.def
 File: biblatex_.def 
-\c@textcitecount=\count273
-\c@textcitetotal=\count274
-\c@textcitemaxnames=\count275
-\c@biburlnumpenalty=\count276
-\c@biburlucpenalty=\count277
-\c@biburllcpenalty=\count278
-\c@smartand=\count279
+\c@textcitecount=\count272
+\c@textcitetotal=\count273
+\c@textcitemaxnames=\count274
+\c@biburlnumpenalty=\count275
+\c@biburlucpenalty=\count276
+\c@biburllcpenalty=\count277
+\c@smartand=\count278
 )
 Package biblatex Info: Trying to load bibliography style 'alphabetic'...
 Package biblatex Info: ... file 'alphabetic.bbx' found.
@@ -753,8 +735,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count280
-\c@bbx:relatedtotal=\count281
+\c@bbx:relatedcount=\count279
+\c@bbx:relatedtotal=\count280
 ))
 Package biblatex Info: Trying to load citation style 'alphabetic'...
 Package biblatex Info: ... file 'alphabetic.cbx' found.
@@ -792,17 +774,17 @@ Package ifvtex Info: VTeX not detected.
 (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count282
-\Gm@cntv=\count283
-\c@Gm@tempcnt=\count284
-\Gm@bindingoffset=\dimen105
-\Gm@wd@mp=\dimen106
-\Gm@odd@mp=\dimen107
-\Gm@even@mp=\dimen108
-\Gm@layoutwidth=\dimen109
-\Gm@layoutheight=\dimen110
-\Gm@layouthoffset=\dimen111
-\Gm@layoutvoffset=\dimen112
+\Gm@cnth=\count281
+\Gm@cntv=\count282
+\c@Gm@tempcnt=\count283
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
 \Gm@dimlist=\toks19
 )
 (/usr/share/texlive/texmf-dist/tex/latex/floatrow/floatrow.sty
@@ -811,15 +793,15 @@ Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen113
-\captionmargin@=\dimen114
-\captionwidth=\dimen115
-\caption@tempdima=\dimen116
-\caption@indent=\dimen117
-\caption@parindent=\dimen118
-\caption@hangindent=\dimen119
+\captionmargin=\dimen112
+\captionmargin@=\dimen113
+\captionwidth=\dimen114
+\caption@tempdima=\dimen115
+\caption@indent=\dimen116
+\caption@parindent=\dimen117
+\caption@hangindent=\dimen118
 )
-\c@float@type=\count285
+\c@float@type=\count284
 \float@exts=\toks20
 \float@box=\box27
 \@floatcapt=\box28
@@ -828,27 +810,27 @@ Package floatrow Info: Modified rotfloat package code loaded on input line 473.
 
 \FR@everyfloat=\toks21
 \flrow@foot=\insert252
-\FB@wd=\dimen120
-\FBo@wd=\dimen121
-\FBc@wd=\dimen122
+\FB@wd=\dimen119
+\FBo@wd=\dimen120
+\FBc@wd=\dimen121
 \FBo@ht=\skip77
 \FBc@ht=\skip78
 \FBf@ht=\skip79
 \FBo@max=\skip80
 \FBc@max=\skip81
 \FBf@max=\skip82
-\c@FBl@b=\count286
-\floatbox@depth=\count287
-\c@FRobj=\count288
-\c@FRsobj=\count289
+\c@FBl@b=\count285
+\floatbox@depth=\count286
+\c@FRobj=\count287
+\c@FRsobj=\count288
 \Xhsize=\skip83
 \sXhsize=\skip84
 \Zhsize=\skip85
 \sZhsize=\skip86
 \flrow@rowbox=\box29
-\FR@Zunitlength=\dimen123
-\c@FBcnt=\count290
-\FPOScnt=\count291
+\FR@Zunitlength=\dimen122
+\c@FBcnt=\count289
+\FPOScnt=\count290
 \LTleft=\skip87
 \LTright=\skip88
 \LTleft=\skip89
@@ -883,18 +865,18 @@ Package graphics Info: Driver file: pdftex.def on input line 95.
 
 (/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-\Gread@gobject=\count292
+\Gread@gobject=\count291
 ))
-\Gin@req@height=\dimen124
-\Gin@req@width=\dimen125
+\Gin@req@height=\dimen123
+\Gin@req@width=\dimen124
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tabu/tabu.sty
 Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen126
-\extrarowheight=\dimen127
+\col@sep=\dimen125
+\extrarowheight=\dimen126
 \NC@list=\toks23
 \extratabsurround=\skip91
 \backup@length=\skip92
@@ -902,25 +884,25 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 (/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box30
-\sift@deathcycles=\count293
-\@vwid@loff=\dimen128
-\@vwid@roff=\dimen129
+\sift@deathcycles=\count292
+\@vwid@loff=\dimen127
+\@vwid@roff=\dimen128
 )
-\c@taburow=\count294
-\tabu@nbcols=\count295
-\tabu@cnt=\count296
-\tabu@Xcol=\count297
-\tabu@alloc=\count298
-\tabu@nested=\count299
-\tabu@target=\dimen130
-\tabu@spreadtarget=\dimen131
-\tabu@naturalX=\dimen132
-\tabucolX=\dimen133
-\tabu@Xsum=\dimen134
-\extrarowdepth=\dimen135
-\abovetabulinesep=\dimen136
-\belowtabulinesep=\dimen137
-\tabustrutrule=\dimen138
+\c@taburow=\count293
+\tabu@nbcols=\count294
+\tabu@cnt=\count295
+\tabu@Xcol=\count296
+\tabu@alloc=\count297
+\tabu@nested=\count298
+\tabu@target=\dimen129
+\tabu@spreadtarget=\dimen130
+\tabu@naturalX=\dimen131
+\tabucolX=\dimen132
+\tabu@Xsum=\dimen133
+\extrarowdepth=\dimen134
+\abovetabulinesep=\dimen135
+\belowtabulinesep=\dimen136
+\tabustrutrule=\dimen137
 \tabu@thebody=\toks24
 \tabu@footnotes=\toks25
 \tabu@box=\box31
@@ -930,27 +912,27 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \tabu@cellskip=\skip93
 )
 (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-\bigstrutjot=\dimen139
+\bigstrutjot=\dimen138
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
-\c@tracingmulticols=\count300
+\c@tracingmulticols=\count299
 \mult@box=\box35
-\multicol@leftmargin=\dimen140
-\c@unbalance=\count301
-\c@collectmore=\count302
-\doublecol@number=\count303
-\multicoltolerance=\count304
-\multicolpretolerance=\count305
-\full@width=\dimen141
-\page@free=\dimen142
-\premulticols=\dimen143
-\postmulticols=\dimen144
+\multicol@leftmargin=\dimen139
+\c@unbalance=\count300
+\c@collectmore=\count301
+\doublecol@number=\count302
+\multicoltolerance=\count303
+\multicolpretolerance=\count304
+\full@width=\dimen140
+\page@free=\dimen141
+\premulticols=\dimen142
+\postmulticols=\dimen143
 \multicolsep=\skip94
 \multicolbaselineskip=\skip95
 \partial@page=\box36
 \last@line=\box37
-\maxbalancingoverflow=\dimen145
+\maxbalancingoverflow=\dimen144
 \mult@rightbox=\box38
 \mult@grightbox=\box39
 \mult@gfirstbox=\box40
@@ -972,45 +954,45 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \@tempa=\box56
 \@tempa=\box57
 \@tempa=\box58
-\c@columnbadness=\count306
-\c@finalcolumnbadness=\count307
-\last@try=\dimen146
-\multicolovershoot=\dimen147
-\multicolundershoot=\dimen148
+\c@columnbadness=\count305
+\c@finalcolumnbadness=\count306
+\last@try=\dimen145
+\multicolovershoot=\dimen146
+\multicolundershoot=\dimen147
 \mult@nat@firstbox=\box59
 \colbreak@box=\box60
-\mc@col@check@num=\count308
+\mc@col@check@num=\count307
 )
 (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen149
-\lightrulewidth=\dimen150
-\cmidrulewidth=\dimen151
-\belowrulesep=\dimen152
-\belowbottomsep=\dimen153
-\aboverulesep=\dimen154
-\abovetopsep=\dimen155
-\cmidrulesep=\dimen156
-\cmidrulekern=\dimen157
-\defaultaddspace=\dimen158
-\@cmidla=\count309
-\@cmidlb=\count310
-\@aboverulesep=\dimen159
-\@belowrulesep=\dimen160
-\@thisruleclass=\count311
-\@lastruleclass=\count312
-\@thisrulewidth=\dimen161
+\heavyrulewidth=\dimen148
+\lightrulewidth=\dimen149
+\cmidrulewidth=\dimen150
+\belowrulesep=\dimen151
+\belowbottomsep=\dimen152
+\aboverulesep=\dimen153
+\abovetopsep=\dimen154
+\cmidrulesep=\dimen155
+\cmidrulekern=\dimen156
+\defaultaddspace=\dimen157
+\@cmidla=\count308
+\@cmidlb=\count309
+\@aboverulesep=\dimen158
+\@belowrulesep=\dimen159
+\@thisruleclass=\count310
+\@lastruleclass=\count311
+\@thisrulewidth=\dimen160
 )
 (/usr/share/texlive/texmf-dist/tex/latex/thmbox/thmbox.sty
 Package: thmbox 2005/04/24 v2.0 fancy theorem outlining
-\thmbox@leftmargin=\dimen162
-\thmbox@rightmargin=\dimen163
-\thmbox@hskip=\dimen164
-\thmbox@vskip=\dimen165
-\thmbox@thickness=\dimen166
+\thmbox@leftmargin=\dimen161
+\thmbox@rightmargin=\dimen162
+\thmbox@hskip=\dimen163
+\thmbox@vskip=\dimen164
+\thmbox@thickness=\dimen165
 \thmbox@box=\box61
 \thmbox@box@=\box62
-\thmbox@dim=\dimen167
+\thmbox@dim=\dimen166
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/03/03 v2.15a AMS math features
@@ -1023,46 +1005,46 @@ Package: amstext 2000/06/29 v2.01 AMS text
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks26
-\ex@=\dimen168
+\ex@=\dimen167
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen169
+\pmbraise@=\dimen168
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count313
+\inf@bad=\count312
 LaTeX Info: Redefining \frac on input line 199.
-\uproot@=\count314
-\leftroot@=\count315
+\uproot@=\count313
+\leftroot@=\count314
 LaTeX Info: Redefining \overline on input line 297.
-\classnum@=\count316
-\DOTSCASE@=\count317
+\classnum@=\count315
+\DOTSCASE@=\count316
 LaTeX Info: Redefining \ldots on input line 394.
 LaTeX Info: Redefining \dots on input line 397.
 LaTeX Info: Redefining \cdots on input line 518.
 \Mathstrutbox@=\box63
 \strutbox@=\box64
-\big@size=\dimen170
+\big@size=\dimen169
 LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
-\macc@depth=\count318
-\c@MaxMatrixCols=\count319
+\macc@depth=\count317
+\c@MaxMatrixCols=\count318
 \dotsspace@=\muskip11
-\c@parentequation=\count320
-\dspbrk@lvl=\count321
+\c@parentequation=\count319
+\dspbrk@lvl=\count320
 \tag@help=\toks27
-\row@=\count322
-\column@=\count323
-\maxfields@=\count324
+\row@=\count321
+\column@=\count322
+\maxfields@=\count323
 \andhelp@=\toks28
-\eqnshift@=\dimen171
-\alignsep@=\dimen172
-\tagshift@=\dimen173
-\tagwidth@=\dimen174
-\totwidth@=\dimen175
-\lineht@=\dimen176
+\eqnshift@=\dimen170
+\alignsep@=\dimen171
+\tagshift@=\dimen172
+\tagwidth@=\dimen173
+\totwidth@=\dimen174
+\lineht@=\dimen175
 \@envbody=\toks29
 \multlinegap=\skip97
 \multlinetaggap=\skip98
@@ -1082,7 +1064,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/rotating/rotating.sty
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
-\c@r@tfl@t=\count325
+\c@r@tfl@t=\count324
 \rotFPtop=\skip99
 \rotFPbot=\skip100
 \rot@float@box=\box65
@@ -1097,8 +1079,8 @@ Package: suffix 2006/07/15 1.5a Variant command support
 (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
 (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
 \@xs@message=\write4
-\integerpart=\count326
-\decimalpart=\count327
+\integerpart=\count325
+\decimalpart=\count326
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
@@ -1116,7 +1098,7 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks33
 \XKV@tempa@toks=\toks34
 )
-\XKV@depth=\count328
+\XKV@depth=\count327
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
@@ -1141,8 +1123,8 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks35
-\pgfutil@tempdima=\dimen177
-\pgfutil@tempdimb=\dimen178
+\pgfutil@tempdima=\dimen176
+\pgfutil@tempdimb=\dimen177
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
 ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
@@ -1168,20 +1150,20 @@ Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 ex
 \pgfkeys@tmptoks=\toks38
 ))
-\pgf@x=\dimen179
-\pgf@y=\dimen180
-\pgf@xa=\dimen181
-\pgf@ya=\dimen182
-\pgf@xb=\dimen183
-\pgf@yb=\dimen184
-\pgf@xc=\dimen185
-\pgf@yc=\dimen186
+\pgf@x=\dimen178
+\pgf@y=\dimen179
+\pgf@xa=\dimen180
+\pgf@ya=\dimen181
+\pgf@xb=\dimen182
+\pgf@yb=\dimen183
+\pgf@xc=\dimen184
+\pgf@yc=\dimen185
 \w@pgf@writea=\write5
 \r@pgf@reada=\read2
-\c@pgf@counta=\count329
-\c@pgf@countb=\count330
-\c@pgf@countc=\count331
-\c@pgf@countd=\count332
+\c@pgf@counta=\count328
+\c@pgf@countb=\count329
+\c@pgf@countc=\count330
+\c@pgf@countd=\count331
 \t@pgf@toka=\toks39
 \t@pgf@tokb=\toks40
 \t@pgf@tokc=\toks41
@@ -1200,8 +1182,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
 tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count333
-\pgfsyssoftpath@bigbuffer@items=\count334
+\pgfsyssoftpath@smallbuffer@items=\count332
+\pgfsyssoftpath@bigbuffer@items=\count333
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
 tex
@@ -1214,8 +1196,8 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen187
-\pgfmath@count=\count335
+\pgfmath@dimen=\dimen186
+\pgfmath@count=\count334
 \pgfmath@box=\box67
 \pgfmath@toks=\toks42
 \pgfmath@stack@operand=\toks43
@@ -1239,37 +1221,37 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count336
+\c@pgfmathroundto@lastzeros=\count335
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
 x
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen188
-\pgf@picmaxx=\dimen189
-\pgf@picminy=\dimen190
-\pgf@picmaxy=\dimen191
-\pgf@pathminx=\dimen192
-\pgf@pathmaxx=\dimen193
-\pgf@pathminy=\dimen194
-\pgf@pathmaxy=\dimen195
-\pgf@xx=\dimen196
-\pgf@xy=\dimen197
-\pgf@yx=\dimen198
-\pgf@yy=\dimen199
-\pgf@zx=\dimen256
-\pgf@zy=\dimen257
+\pgf@picminx=\dimen187
+\pgf@picmaxx=\dimen188
+\pgf@picminy=\dimen189
+\pgf@picmaxy=\dimen190
+\pgf@pathminx=\dimen191
+\pgf@pathmaxx=\dimen192
+\pgf@pathminy=\dimen193
+\pgf@pathmaxy=\dimen194
+\pgf@xx=\dimen195
+\pgf@xy=\dimen196
+\pgf@yx=\dimen197
+\pgf@yy=\dimen198
+\pgf@zx=\dimen199
+\pgf@zy=\dimen256
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
 code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen258
-\pgf@path@lasty=\dimen259
+\pgf@path@lastx=\dimen257
+\pgf@path@lasty=\dimen258
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
 .tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen260
-\pgf@shorten@start@additional=\dimen261
+\pgf@shorten@end@additional=\dimen259
+\pgf@shorten@start@additional=\dimen260
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
 x
@@ -1277,19 +1259,19 @@ File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box68
 \pgf@hbox=\box69
 \pgf@layerbox@main=\box70
-\pgf@picture@serial@count=\count337
+\pgf@picture@serial@count=\count336
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen262
+\pgflinewidth=\dimen261
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
 s.code.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen263
-\pgf@pt@y=\dimen264
-\pgf@pt@temp=\dimen265
+\pgf@pt@x=\dimen262
+\pgf@pt@y=\dimen263
+\pgf@pt@temp=\dimen264
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
@@ -1305,12 +1287,12 @@ File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
 x
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen266
+\pgfarrowsep=\dimen265
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen267
-\pgf@sys@shading@range@num=\count338
+\pgf@max=\dimen266
+\pgf@sys@shading@range@num=\count337
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
@@ -1341,8 +1323,8 @@ File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
 .sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen268
-\pgf@nodesepend=\dimen269
+\pgf@nodesepstart=\dimen267
+\pgf@nodesepend=\dimen268
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
 .sty
@@ -1356,8 +1338,8 @@ Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen270
-\pgffor@skip=\dimen271
+\pgffor@iter=\dimen269
+\pgffor@skip=\dimen270
 \pgffor@stack=\toks45
 \pgffor@toks=\toks46
 ))
@@ -1367,31 +1349,31 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
 .code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count339
-\pgfplotmarksize=\dimen272
+\pgf@plot@mark@count=\count338
+\pgfplotmarksize=\dimen271
 )
-\tikz@lastx=\dimen273
-\tikz@lasty=\dimen274
-\tikz@lastxsaved=\dimen275
-\tikz@lastysaved=\dimen276
-\tikzleveldistance=\dimen277
-\tikzsiblingdistance=\dimen278
+\tikz@lastx=\dimen272
+\tikz@lasty=\dimen273
+\tikz@lastxsaved=\dimen274
+\tikz@lastysaved=\dimen275
+\tikzleveldistance=\dimen276
+\tikzsiblingdistance=\dimen277
 \tikz@figbox=\box73
 \tikz@figbox@bg=\box74
 \tikz@tempbox=\box75
 \tikz@tempbox@bg=\box76
-\tikztreelevel=\count340
-\tikznumberofchildren=\count341
-\tikznumberofcurrentchild=\count342
-\tikz@fig@count=\count343
+\tikztreelevel=\count339
+\tikznumberofchildren=\count340
+\tikznumberofcurrentchild=\count341
+\tikz@fig@count=\count342
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count344
-\pgfmatrixcurrentcolumn=\count345
-\pgf@matrix@numberofcolumns=\count346
+\pgfmatrixcurrentrow=\count343
+\pgfmatrixcurrentcolumn=\count344
+\pgf@matrix@numberofcolumns=\count345
 )
-\tikz@expandcount=\count347
+\tikz@expandcount=\count346
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
@@ -1403,18 +1385,18 @@ File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count348
-\calc@Bcount=\count349
-\calc@Adimen=\dimen279
-\calc@Bdimen=\dimen280
+\calc@Acount=\count347
+\calc@Bcount=\count348
+\calc@Adimen=\dimen278
+\calc@Bdimen=\dimen279
 \calc@Askip=\skip101
 \calc@Bskip=\skip102
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count350
+\calc@Ccount=\count349
 \calc@Cskip=\skip103
 )
-\c@@todonotes@numberoftodonotes=\count351
+\c@@todonotes@numberoftodonotes=\count350
 )
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of KOMA-Script class, that doesn't
@@ -1463,16 +1445,16 @@ Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen281
-\Hy@linkcounter=\count352
-\Hy@pagecounter=\count353
+\@linkdim=\dimen280
+\Hy@linkcounter=\count351
+\Hy@pagecounter=\count352
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count354
+\Hy@SavedSpaceFactor=\count353
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -1488,12 +1470,12 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count355
+\c@Hy@tempcnt=\count354
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen282
-\Fld@menulength=\count356
-\Field@Width=\dimen283
-\Fld@charsize=\dimen284
+\XeTeXLinkMargin=\dimen281
+\Fld@menulength=\count355
+\Field@Width=\dimen282
+\Fld@charsize=\dimen283
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -1503,17 +1485,17 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count357
-\c@Item=\count358
-\c@Hfootnote=\count359
+\Hy@abspage=\count356
+\c@Item=\count357
+\c@Hfootnote=\count358
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count360
-\c@bookmark@seq@number=\count361
+\Fld@listcount=\count359
+\c@bookmark@seq@number=\count360
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
@@ -1523,23 +1505,23 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip104
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count362
+\lst@mode=\count361
 \lst@gtempboxa=\box77
 \lst@token=\toks47
-\lst@length=\count363
-\lst@currlwidth=\dimen285
-\lst@column=\count364
-\lst@pos=\count365
-\lst@lostspace=\dimen286
-\lst@width=\dimen287
-\lst@newlines=\count366
-\lst@lineno=\count367
-\lst@maxwidth=\dimen288
+\lst@length=\count362
+\lst@currlwidth=\dimen284
+\lst@column=\count363
+\lst@pos=\count364
+\lst@lostspace=\dimen285
+\lst@width=\dimen286
+\lst@newlines=\count365
+\lst@lineno=\count366
+\lst@maxwidth=\dimen287
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count368
-\lst@skipnumbers=\count369
+\c@lstnumber=\count367
+\lst@skipnumbers=\count368
 \lst@framebox=\box78
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
@@ -1572,17 +1554,16 @@ LaTeX Warning: Overwriting file `./hinweiseabschlussarbeit.bib'.
 
 
 Package csquotes Info: Checking for multilingual support...
-Package csquotes Info: ... found 'babel' package.
-Package biblatex Info: Trying to load language 'ngerman'...
-Package biblatex Info: ... file 'ngerman.lbx' found.
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
-File: ngerman.lbx 2016/03/03 v3.3 biblatex localization (PK/JW/AB)
-Package biblatex Info: Trying to load language 'german'...
-Package biblatex Info: ... file 'german.lbx' found.
+Package csquotes Info: ... none found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/german.lbx
-File: german.lbx 2016/03/03 v3.3 biblatex localization (PK/JW/AB)
-))
+Package csquotes Warning: No multilingual support.
+(csquotes)                Cannot enable multilingual quotes on input line 393.
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2016/03/03 v3.3 biblatex localization (PK/JW/AB)
+)
 (./hinweiseabschlussarbeit.aux)
 \openout1 = `hinweiseabschlussarbeit.aux'.
 
@@ -1668,26 +1649,18 @@ Package biblatex Info: Reference segment=0 on input line 393.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 393.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 393.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 393.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 393.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count370
-\scratchdimen=\dimen289
+\scratchcounter=\count369
+\scratchdimen=\dimen288
 \scratchbox=\box79
-\nofMPsegments=\count371
-\nofMParguments=\count372
+\nofMPsegments=\count370
+\nofMParguments=\count371
 \everyMPshowfont=\toks48
-\MPscratchCnt=\count373
-\MPscratchDim=\dimen290
-\MPnumerator=\count374
-\makeMPintoPDFobject=\count375
+\MPscratchCnt=\count372
+\MPscratchDim=\dimen289
+\MPnumerator=\count373
+\makeMPintoPDFobject=\count374
 \everyMPtoPDFconversion=\toks49
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -1714,7 +1687,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count376
+\c@section@level=\count375
 )
 LaTeX Info: Redefining \ref on input line 393.
 LaTeX Info: Redefining \pageref on input line 393.
@@ -1724,7 +1697,7 @@ LaTeX Info: Redefining \nameref on input line 393.
 \@outlinefile=\write6
 \openout6 = `hinweiseabschlussarbeit.out'.
 
-\c@lstlisting=\count377
+\c@lstlisting=\count376
 Package scrhack Info: undefining \float@addtolists on input line 393.
 
 <../pic/up-uhh-logo-u-2010-u-farbe-u-rgb.pdf, id=71, 393.93175pt x 127.66696pt>
@@ -1744,7 +1717,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 419.
 
 Underfull \hbox (badness 10000) in paragraph at lines 417--421
- \T1/ptm/b/n/24.88 graph Vi-sua-li-za-ti-on   
+ \T1/ptm/b/n/24.88 Se-man-tic Triples   
  []
 
 
@@ -1752,14 +1725,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 425--430
 
  []
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 435.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 435.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 435.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 435.
 [-1
 
 
@@ -1784,32 +1749,15 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 438.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 15.89755pt on input line 438.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 442.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 442.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 442.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 442.
  [0
 
-]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 448.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 448.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 448.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 448.
- [1
+] [1
 
 ]
 Package tocbasic Info: character protrusion at toc deactivated on input line 44
 8.
  (./hinweiseabschlussarbeit.toc
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 9.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 7.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
@@ -1819,35 +1767,35 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `ztmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 9.
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 7.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 9.
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 7.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 9.
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 7.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 9.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
@@ -1858,61 +1806,21 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 \tf@toc=\write7
 \openout7 = `hinweiseabschlussarbeit.toc'.
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 450.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 450.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 450.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 450.
  [2
 
 ]
 chapter 1.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 450.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 450.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 456.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 456.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 456.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 456.
 [3
 
 ]
 chapter 2.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 456.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 456.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 460.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 13.24796pt on input line 460.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 460.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 460.
 
 LaTeX Warning: Citation 'Tolk2003' on page 4 undefined on input line 466.
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 468.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 468.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 483.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 483.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 483.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 483.
 [4
 
 ]
@@ -1923,45 +1831,11 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 493.
-
-Overfull \hbox (0.82805pt too wide) in paragraph at lines 494--495
-[]\T1/ptm/m/n/12 (-20) Microsoft Aca-de-mic Search ([]http://academic.research.
-microsoft.com[]) $\OMS/ztmcm/m/n/12 !$ \T1/ptm/m/n/12 (-20) com-pu-ter science
- []
-
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 507.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 507.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 507.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 507.
-[5]
+ [5]
 chapter 3.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 507.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 507.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 509.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 509.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 517.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 517.
 
 LaTeX Warning: Citation 'Schl2013' on page 6 undefined on input line 525.
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 528.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 528.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 528.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 528.
 [6
 
 ]
@@ -1981,10 +1855,6 @@ Package microtype Info: Loading generic settings for font family
 LaTeX Warning: Citation 'textwahrnehmung' on page 7 undefined on input line 533
 .
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 535.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 535.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 9.19998pt on input line 540.
 
@@ -1992,14 +1862,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 636--637
  [][] 
  []
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 645.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 645.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 645.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 645.
 [7
 Non-PDF special ignored!]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
@@ -2008,10 +1870,6 @@ LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <10> not available
 (Font)              Font shape `T1/pcr/b/n' tried instead on input line 650.
 LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <10> not available
 (Font)              Font shape `T1/pcr/m/sl' tried instead on input line 651.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 662.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 662.
 
 
 LaTeX Warning: Citation 'Beut2009' on page 8 undefined on input line 672.
@@ -2047,72 +1905,18 @@ LaTeX Warning: Citation 'Heise2011' on page 8 undefined on input line 684.
 LaTeX Warning: Citation 'textwahrnehmung' on page 8 undefined on input line 684
 .
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 686.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 686.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 686.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 686.
 [8]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 697.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 697.
-
 
 LaTeX Warning: Citation 'Wiki' on page 9 undefined on input line 701.
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 703.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 703.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 705.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 705.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 705.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 713.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 713.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 713.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 713.
-[9]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 713.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 713.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 713.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 713.
- [10]
+[9] [10]
 chapter 4.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 713.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 713.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 717.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 717.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 727.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 727.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 737.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 737.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 737.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 737.
 [11
 
 ]
@@ -2122,38 +1926,14 @@ LaTeX Warning: Citation 'faui2' on page 12 undefined on input line 741.
 
 LaTeX Warning: Citation 'faui2' on page 12 undefined on input line 741.
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 743.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 743.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 755.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 755.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 755.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 755.
 [12]
 chapter 5.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 755.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 755.
 
 LaTeX Warning: Citation 'Posp2012' on page 13 undefined on input line 765.
 
 
 LaTeX Warning: Empty bibliography on input line 773.
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 785.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 785.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 785.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 785.
 [13
 
 ]
@@ -2170,56 +1950,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 820--839
  [][] 
  []
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 850.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 850.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 850.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 850.
 [14
 
-]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 866.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 866.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 866.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 866.
- [15]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 866.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 866.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 866.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 866.
- [16]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 907.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 907.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 907.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 907.
- [17
+] [15] [16] [17
 
 ]
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
 ine 910.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 928.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 928.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 928.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 928.
  [18
 
 ]
@@ -2247,12 +1984,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 943--944
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 946--946
- []\T1/ptm/m/n/17.28 Alvin Rin-dra Faz-rie 
+ []\T1/ptm/m/n/17.28 Alvin Rindra Fazrie 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 948--948
- []\T1/ptm/m/n/17.28 geb. am 8. Ju-ni 1969 in Son-ne-berg 
+ []\T1/ptm/m/n/17.28 geb. am 8. Juni 1969 in Son-neberg 
  []
 
 
@@ -2262,22 +1999,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 949--949
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 950--951
- []\T1/ptm/m/n/17.28 Studiengang In-for-ma-tik 
+ []\T1/ptm/m/n/17.28 Studiengang In-for-matik 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 953--955
- []\T1/ptm/m/n/17.28 eingereicht am 8. Ja-nu-ar 2018 
+ []\T1/ptm/m/n/17.28 eingereicht am Jan-uary 10, 2018 
  []
 
 
-Underfull \hbox (badness 5388) in paragraph at lines 956--956
- []\T1/ptm/m/n/17.28 Betreuer: Dipl.-Inf. Heinz Mus-ter-mann [][][] 
+Underfull \hbox (badness 5189) in paragraph at lines 956--956
+ []\T1/ptm/m/n/17.28 Betreuer: Dipl.-Inf. Heinz Muster-mann [][][] 
  []
 
 
-Underfull \hbox (badness 2205) in paragraph at lines 957--957
- []\T1/ptm/m/n/17.28 Erstgutachter: Prof. Dr.-Ing. Han-nes Fe-der-rath 
+Underfull \hbox (badness 2057) in paragraph at lines 957--957
+ []\T1/ptm/m/n/17.28 Erstgutachter: Prof. Dr.-Ing. Hannes Fed-er-rath 
  []
 
 
@@ -2289,40 +2026,22 @@ LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <12> not available
 (Font)              Font shape `T1/pcr/b/n' tried instead on input line 965.
 LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/pcr/b/n' tried instead on input line 965.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 966.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 966.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 966.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 966.
 [19
 
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 976.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 992.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 992.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 992.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 992.
- [20] (./hinweiseabschlussarbeit.tdo)
+ [20] (./hinweiseabschlussarbeit.tdo
+Overfull \hbox (11.7698pt too wide) in paragraph at lines 2--2
+ [][] [][][][] \T1/ptm/m/n/12 (-20) Bitte ver-wen-den Sie hier in je-dem Fall d
+ie of-fizielle von der Prü-fungs-be-hörde vorgegebene 
+ []
+
+)
 \tf@tdo=\write8
 \openout8 = `hinweiseabschlussarbeit.tdo'.
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 993.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 993.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 993.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 993.
  [21
 
 ]
@@ -2331,16 +2050,10 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 993.
  (./hinweiseabschlussarbeit.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 993.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 993.
+Package rerunfilecheck Info: File `hinweiseabschlussarbeit.out' has not changed
+.
+(rerunfilecheck)             Checksum: 1F4C6F63075586FEE1596AA661314C71;963.
 
-
-Package rerunfilecheck Warning: File `hinweiseabschlussarbeit.out' has changed.
-
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `hinweiseabschlussarbeit.out':
-(rerunfilecheck)             Before: 6A7467A008AD643F6FDDFF3EE65FAD26;965
-(rerunfilecheck)             After:  A7B65EBB797FA83E114D8371F789F172;971.
 
 LaTeX Warning: There were undefined references.
 
@@ -2354,13 +2067,13 @@ Package logreq Info: Writing requests to 'hinweiseabschlussarbeit.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32298 strings out of 494860
- 571736 string characters out of 6177603
- 1100645 words of memory out of 5000000
- 34774 multiletter control sequences out of 15000+600000
- 77292 words of font info for 208 fonts, out of 8000000 for 9000
- 40 hyphenation exceptions out of 8191
- 73i,15n,76p,863b,1676s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31845 strings out of 494860
+ 565714 string characters out of 6177603
+ 1072576 words of memory out of 5000000
+ 34353 multiletter control sequences out of 15000+600000
+ 77032 words of font info for 204 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 73i,15n,76p,863b,1343s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
@@ -2373,7 +2086,7 @@ st/fonts/type1/urw/courier/ucrb8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 /texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/times/utmri8a.pfb>
-Output written on hinweiseabschlussarbeit.pdf (23 pages, 161091 bytes).
+Output written on hinweiseabschlussarbeit.pdf (23 pages, 161382 bytes).
 PDF statistics:
  318 PDF objects out of 1000 (max. 8388607)
  277 compressed objects within 3 object streams
