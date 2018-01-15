@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.7)  15 JAN 2018 16:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.7)  15 JAN 2018 17:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1750,8 +1750,8 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 ] [1
 
 ]
-Package tocbasic Info: character protrusion at toc deactivated on input line 44
-7.
+Package tocbasic Info: character protrusion at toc deactivated on input line 45
+3.
  (./hinweiseabschlussarbeit.toc
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 5.
 
@@ -1807,9 +1807,9 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ]
 chapter 1.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 454.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 460.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 13.24796pt on input line 454.
+(Font)              scaled to size 13.24796pt on input line 460.
 [3
 
 ]
@@ -1830,20 +1830,20 @@ chapter 5.
 
 ]
 chapter 6.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 576.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 582.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 576.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 582.
  [8
 
 ]
 chapter 7.
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 600.
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 600.
+nput line 606.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 606.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
@@ -1852,9 +1852,9 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <10> not available
-(Font)              Font shape `T1/pcr/b/n' tried instead on input line 601.
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 607.
 LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <10> not available
-(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 602.
+(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 608.
  [9
 
 ]
@@ -1864,88 +1864,88 @@ chapter 8.
 ]
 chapter 9.
 
-LaTeX Warning: Empty bibliography on input line 626.
+LaTeX Warning: Empty bibliography on input line 632.
 
 [11
 
 ]
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 636.
+ine 642.
  [12
 
 ]
 File: ../pic/up-uhh-logo-u-2010-u-farbe-u-rgb.pdf Graphic file (type pdf)
  <use ../pic/up-uhh-logo-u-2010-u-farbe-u-rgb.pdf>
 Package pdftex.def Info: ../pic/up-uhh-logo-u-2010-u-farbe-u-rgb.pdf used on in
-put line 658.
+put line 664.
 (pdftex.def)             Requested size: 193.47882pt x 62.70345pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 663--664
+Underfull \hbox (badness 10000) in paragraph at lines 669--670
  []\T1/ptm/m/n/17.28 Masterarbeit 
  []
 
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 15.89755pt on input line 666.
+(Font)              scaled to size 15.89755pt on input line 672.
 
-Underfull \hbox (badness 10000) in paragraph at lines 666--666
+Underfull \hbox (badness 10000) in paragraph at lines 672--672
  []\T1/phv/b/n/17.28 Master The-sis 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 669--670
+Underfull \hbox (badness 10000) in paragraph at lines 675--676
  []\T1/ptm/m/n/17.28 vorgelegt von 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 672--672
+Underfull \hbox (badness 10000) in paragraph at lines 678--678
  []\T1/ptm/m/n/17.28 Alvin Rindra Fazrie 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 674--674
+Underfull \hbox (badness 10000) in paragraph at lines 680--680
  []\T1/ptm/m/n/17.28 geb. am 12. Juni 1991 in Jakarta 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 675--675
+Underfull \hbox (badness 10000) in paragraph at lines 681--681
  []\T1/ptm/m/n/17.28 Matrikelnummer 6143847 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 676--677
+Underfull \hbox (badness 10000) in paragraph at lines 682--683
  []\T1/ptm/m/n/17.28 Studiengang In-for-matik 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 679--681
+Underfull \hbox (badness 10000) in paragraph at lines 685--687
  []\T1/ptm/m/n/17.28 eingereicht am Jan-uary 15, 2018 
  []
 
 
-Underfull \hbox (badness 5189) in paragraph at lines 682--682
+Underfull \hbox (badness 5189) in paragraph at lines 688--688
  []\T1/ptm/m/n/17.28 Betreuer: Dipl.-Inf. Heinz Muster-mann [][][] 
  []
 
 
-Underfull \hbox (badness 5622) in paragraph at lines 683--683
+Underfull \hbox (badness 5622) in paragraph at lines 689--689
  []\T1/ptm/m/n/17.28 Erstgutachter: Prof. Dr. Chris Bie-mann 
  []
 
 
-Underfull \hbox (badness 7012) in paragraph at lines 684--685
+Underfull \hbox (badness 7012) in paragraph at lines 690--691
  []\T1/ptm/m/n/17.28 Zweitgutachter: Stef-fen Re-mus M.Sc. 
  []
 
 LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <12> not available
-(Font)              Font shape `T1/pcr/b/n' tried instead on input line 691.
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 697.
 LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/pcr/b/n' tried instead on input line 691.
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 697.
 [13
 
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 702.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 708.
  [14] (./hinweiseabschlussarbeit.tdo
 Overfull \hbox (11.7698pt too wide) in paragraph at lines 2--2
  [][] [][][][] \T1/ptm/m/n/12 (-20) Bitte ver-wen-den Sie hier in je-dem Fall d
@@ -1959,11 +1959,11 @@ ie of-fizielle von der Prü-fungs-be-hörde vorgegebene
  [15
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 719.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 719.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 725.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 725.
  (./hinweiseabschlussarbeit.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 719.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 719.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 725.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 725.
 Package rerunfilecheck Info: File `hinweiseabschlussarbeit.out' has not changed
 .
 (rerunfilecheck)             Checksum: 6D0AAFBCBEE5EA6B6CA0DE8F5D131135;1791.
@@ -1972,13 +1972,13 @@ Package logreq Info: Writing requests to 'hinweiseabschlussarbeit.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31486 strings out of 494860
- 560856 string characters out of 6177603
+ 31507 strings out of 494860
+ 561036 string characters out of 6177603
  1070183 words of memory out of 5000000
  34122 multiletter control sequences out of 15000+600000
- 51142 words of font info for 99 fonts, out of 8000000 for 9000
+ 52052 words of font info for 113 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 73i,9n,76p,863b,1344s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,9n,76p,1065b,1344s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/share/texlive/texmf-dist/fonts/
@@ -1986,7 +1986,7 @@ type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/cou
 rier/ucrro8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on hinweiseabschlussarbeit.pdf (17 pages, 105673 bytes).
+Output written on hinweiseabschlussarbeit.pdf (17 pages, 108287 bytes).
 PDF statistics:
  312 PDF objects out of 1000 (max. 8388607)
  282 compressed objects within 3 object streams
