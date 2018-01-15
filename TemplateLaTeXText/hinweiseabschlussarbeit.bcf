@@ -2051,26 +2051,6 @@
     <bcf:datasource type="file" datatype="bibtex">hinweiseabschlussarbeit.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Tolk2003</bcf:citekey>
-    <bcf:citekey order="2">Schl2013</bcf:citekey>
-    <bcf:citekey order="3">Bier2009</bcf:citekey>
-    <bcf:citekey order="4">textwahrnehmung</bcf:citekey>
-    <bcf:citekey order="5">Beut2009</bcf:citekey>
-    <bcf:citekey order="5">ScWe2007</bcf:citekey>
-    <bcf:citekey order="6">Kili2006</bcf:citekey>
-    <bcf:citekey order="6">Lamp1981</bcf:citekey>
-    <bcf:citekey order="6">ThKZ2002</bcf:citekey>
-    <bcf:citekey order="7">InBr2009</bcf:citekey>
-    <bcf:citekey order="7">WWPK2010</bcf:citekey>
-    <bcf:citekey order="7">HSFN2009</bcf:citekey>
-    <bcf:citekey order="8">CCC2009</bcf:citekey>
-    <bcf:citekey order="8">Heise2011</bcf:citekey>
-    <bcf:citekey order="8">textwahrnehmung</bcf:citekey>
-    <bcf:citekey order="9">Wiki</bcf:citekey>
-    <bcf:citekey order="10">faui2</bcf:citekey>
-    <bcf:citekey order="11">faui2</bcf:citekey>
-    <bcf:citekey order="12">Posp2012</bcf:citekey>
-    <bcf:citekey order="13">faui2</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="anyt/global" type="entry" sortscheme="anyt" sortnamekeyscheme="global">
   <bcf:sorting>
