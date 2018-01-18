@@ -418,7 +418,7 @@
 		\vspace{14mm}
 		% Titel
 		\noindent \textbf{\huge
-		  Autolinks: Information Management on Hypergraph of Semantic Triples 
+		  Autolinks: Adaptive information Management on Hypergraph of Semantic Triples 
 		}
 		\vspace{60mm}	
 	\end{center}
@@ -635,94 +635,5 @@ Here comes the conclusion...
   \printbibliography        % Falls Biblatex verwendet wird.
   \label{sec:literaturverzeichnis}
 \end{raggedright}
-
-
-
-% ===========================Selbststaendigkeitserklaerung======================
-\chapter*{Eidesstattliche Versicherung} % war: Selbständigkeitserklärung
-\vspace{1cm}
-
-\todo[noline]{Bitte verwenden Sie hier in jedem Fall die offizielle von der Prüfungsbehörde vorgegebene Formulierung der Selbständigkeitserklärung.}
-%
-Hiermit versichere ich an Eides statt, dass ich die vorliegende Arbeit selbstständig verfasst und keine anderen als die angegebenen Hilfsmittel – insbesondere keine im Quellenverzeichnis nicht benannten Internet-Quellen – benutzt habe. Alle Stellen, die wörtlich oder sinngemäß aus Veröffentlichungen entnommen wurden, sind als solche kenntlich gemacht. Ich versichere weiterhin, dass ich die Arbeit vorher nicht in einem anderen Prüfungsverfahren eingereicht habe und die eingereichte schriftliche Fassung der auf dem elektronischen Speichermedium entspricht.
-
-Ggf. streichen: Ich bin damit einverstanden, dass meine Abschlussarbeit in den Bestand der Fachbereichsbibliothek eingestellt wird.
-
-\makeatletter
-Hamburg, den {\@date}
-\makeatother
-
-\vspace{2cm}
-\rule{6cm}{0.25pt}\\
-\makeatletter
-{\@author} \par
-\makeatother
-
-
-% ================================Deckblatt-Muster==============================
-\newpage
-\thispagestyle{empty}
-% \addcontentsline{toc}{chapter}{Muster des Deckblatts}
-\begin{titlepage}% {{{
-\includegraphics[width=6.8cm]{../pic/up-uhh-logo-u-2010-u-farbe-u-rgb.pdf}
-\begin{center}\Large
-	% Universität Hamburg \par
-	% Fachbereich Informatik
-	\vfill
-	Masterarbeit
-	\vfill
-	\makeatletter
-	{\Large\textsf{\textbf{\@title}}\par}
-	\makeatother
-	\vfill
-	vorgelegt von
-	\par\bigskip
-	\makeatletter
-	{\@author} \par
-	\makeatother
-	geb. am 12. Juni 1991 in Jakarta \par
-	Matrikelnummer 6143847 \par
-	Studiengang Informatik
-	\vfill
-	\makeatletter
-	eingereicht am {\@date}
-	\makeatother
-	\vfill
-	Betreuer: Dipl.-Inf. Heinz Mustermann \todo{Todos im Text und Fragen an den Betreuer sind in dieser Form dargestellt}\par
-	Erstgutachter: Prof. Dr. Chris Biemann \par
-	Zweitgutachter: Steffen Remus M.Sc.
-\end{center}
-\ifoptionfinal{}{
-\begin{tikzpicture}[remember picture, overlay]
-    \node[draw, red, font=\ttfamily\bfseries\Huge, xshift=50mm, yshift=228mm,
-        rotate=340, text centered, text width=8cm, very thick, rounded
-        corners=4mm] at (current page.south) {Entwurf vom \today};
-\end{tikzpicture}}
-\end{titlepage}% }}}
-
-% ================================Literaturliste-Muster==============================
-\newpage
-\thispagestyle{empty}
-\label{sec:literaturliste}
-\par\textbf{\textsf{Thema:}} Privacy Enhancing Technologies zum Schutz von Kommunikationsbeziehungen
-\par\textbf{\textsf{Bearbeiter:}} Eva Musterfrau, Heinz Mustermann
-\par\textbf{\textsf{Datum:}} \today
-\bigskip
-\par\textbf{\Large\textsf{Literaturliste}}
-
-David Chaum: Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms. Communications of the ACM 24/2 (1981) 84--88.
-
-David Chaum: The Dining Cryptographers Problem: Unconditional Sender and Recipient Untraceability. Journal of Cryptology 1/1 (1988) 65--75.
-
-David Goldschlag, Michael Reed, Paul Syverson: Onion Routing for Anonymous and Private Internet Connections. Communications of the ACM 42/2 (1999) 39--41.
-
-Andreas Pfitzmann: Diensteintegrierende Kommunikationsnetze mit teilnehmerüberprüfbarem Datenschutz. IFB 234, Springer-Verlag, Berlin 1990.
-
-Wei Wang, Mehul Motani, Vikram Srinivasan: Dependent link padding algorithms for low latency anonymity systems. Proc. 15th ACM conference on Computer and communications security. ACM, 2008, 323--332.
-
-
-% ================================Todo list==============================
-\listoftodos
-% \todototoc
 
 \end{document}
