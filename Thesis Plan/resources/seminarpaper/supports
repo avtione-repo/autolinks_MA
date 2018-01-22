@@ -1,0 +1,26 @@
+$\pi$ from state $s$:
+\begin{equation}
+V^(s) \= \E \left[ \left. \sum_{t=0}^{\infty} \gamma^t R(s_t,a_t) \right| s_0=s\v a_t=\pi(s_t) \right]
+\end{equation}
+
+$
+where the expectation is over the runs of the Markov chain induced by $\pi$, and satisfies for all states $s$:
+$
+V^{\pi}(s) \= \E [R(s,\pi(s))] + \gamma \sum_{s'} T(s,\pi(s),s')V^{\pi}(s').
+$
+$\pi$:
+$
+Q^{\pi}(s,a) \= \E \left[ \left. \sum_{t=0}^{\infty} \gamma^t R(s_t,a_t) \right| s_0=s\v 
+a_t=\left\{
+\begin{array}{l}
+    a  \mbox{ if }t = 0 \\
+    \pi(s_t)  \mbox{ else}
+  \end{array}
+\right.
+ \right]
+$
+and satisfies:
+$
+Q^{\pi}(s,a) \= \E [R(s,a)] + \gamma\sum_{s'} T(s,a,s')V^{\pi}(s').
+$
+

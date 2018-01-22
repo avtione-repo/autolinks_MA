@@ -1,0 +1,16 @@
+\select@language {english}
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Reinforcement Learning Basics}{2}
+\contentsline {subsection}{\numberline {2.1}Basic Setup}{2}
+\contentsline {subsection}{\numberline {2.2}Q-Value functions}{4}
+\contentsline {subsection}{\numberline {2.3}Finding optimal policies}{4}
+\contentsline {section}{\numberline {3}RL with Interactive Feedback}{6}
+\contentsline {subsection}{\numberline {3.1}Approaches for Human Advising}{6}
+\contentsline {subsection}{\numberline {3.2}Approaches for Agent Advising}{6}
+\contentsline {section}{\numberline {4}Implementation}{6}
+\contentsline {subsection}{\numberline {4.1}Description of the implemented algorithm}{6}
+\contentsline {subsection}{\numberline {4.2}Parameter Optimizations for different scenarios}{6}
+\contentsline {subsection}{\numberline {4.3}Discussion and Results}{6}
+\contentsline {section}{\numberline {5}Conclusion}{6}
+\contentsline {section}{Bibliography}{7}

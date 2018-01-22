@@ -1,0 +1,43 @@
+\begin{thebibliography}{1}
+
+\bibitem{baier2007learning}
+T~Baier-Lowenstein and Jianwei Zhang.
+\newblock Learning to grasp everyday objects using reinforcement-learning with
+  automatic value cut-off.
+\newblock In {\em Intelligent Robots and Systems}, page 1551–1556. IEEE,
+  2007.
+
+\bibitem{cruz2014improving}
+Francisco Cruz, Sven Magg, Cornelius Weber, and Stefan Wermter.
+\newblock Improving reinforcement learning with interactive feedback and
+  affordances.
+\newblock In {\em Development and Learning and Epigenetic Robotics
+  (ICDL-Epirob), 2014 Joint IEEE International Conferences on}, pages 165--170.
+  IEEE, 2014.
+
+\bibitem{Sutton1998introduction}
+Richard~S. Sutton and Andrew~G. Barto.
+\newblock {\em Introduction to Reinforcement Learning}.
+\newblock MIT Press, Cambridge, MA, USA, 1st edition, 1998.
+
+\bibitem{Taylor2014reinforcement}
+Matthew~E. Taylor, Nicholas Carboni, Anestis Fachantidis, Ioannis Vlahavas, and
+  Lisa Torrey.
+\newblock Reinforcement learning agents providing advice in complex video
+  games.
+\newblock {\em Connect. Sci}, 26(1):45--63, January 2014.
+
+\bibitem{Thomaz2006reinforcement}
+Andrea~L. Thomaz and Cynthia Breazeal.
+\newblock Reinforcement learning with human teachers: Evidence of feedback and
+  guidance with implications for learning performance.
+\newblock In {\em Proceedings of the 21st National Conference on Artificial
+  Intelligence - Volume 1}, AAAI'06, pages 1000--1005. AAAI Press, 2006.
+
+\bibitem{thomaz2005real}
+Andrea~Lockerd Thomaz, Guy Hoffman, and Cynthia Breazeal.
+\newblock Real-time interactive reinforcement learning for robots.
+\newblock In {\em AAAI 2005 workshop on human comprehensible machine learning},
+  2005.
+
+\end{thebibliography}

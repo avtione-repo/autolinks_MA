@@ -1,0 +1,21 @@
+\select@language {english}
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Reinforcement Learning Basics}{2}
+\contentsline {subsection}{\numberline {2.1}Basic Setup}{2}
+\contentsline {subsection}{\numberline {2.2}Q-Value functions}{4}
+\contentsline {section}{\numberline {3}RL with Interactive Feedback}{4}
+\contentsline {subsection}{\numberline {3.1}Approaches for Agent Advising}{4}
+\contentsline {subsubsection}{\numberline {3.1.1}Early advising}{5}
+\contentsline {subsubsection}{\numberline {3.1.2}Alternate advising}{6}
+\contentsline {subsubsection}{\numberline {3.1.3}Importance advising}{6}
+\contentsline {subsubsection}{\numberline {3.1.4}Mistake correcting}{6}
+\contentsline {subsubsection}{\numberline {3.1.5}Predictive advising}{7}
+\contentsline {subsubsection}{\numberline {3.1.6}Experimental results}{7}
+\contentsline {subsection}{\numberline {3.2}Approaches for Human Advising}{8}
+\contentsline {section}{\numberline {4}Implementation}{10}
+\contentsline {subsection}{\numberline {4.1}Description of the scenario and algorithm}{10}
+\contentsline {subsection}{\numberline {4.2}Optimization attempts}{10}
+\contentsline {subsection}{\numberline {4.3}Results and Discussion}{11}
+\contentsline {section}{\numberline {5}Conclusion}{14}
+\contentsline {section}{Bibliography}{15}
