@@ -1,10 +1,15 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{10.1007/3-540-46648-7_20}
 Fran{\c{c}}ois Bertault and Mirka Miller.
 \newblock An algorithm for drawing compound graphs.
 \newblock In Jan Kratochv{\'i}yl, editor, {\em Graph Drawing}, pages 197--204,
   Berlin, Heidelberg, 1999. Springer Berlin Heidelberg.
+
+\bibitem{Bikel1999}
+Daniel~M. Bikel, Richard Schwartz, and Ralph~M. Weischedel.
+\newblock An algorithm that learns what's in a name.
+\newblock {\em Machine Learning}, 34(1):211--231, Feb 1999.
 
 \bibitem{DOGRUSOZ2009980}
 Ugur Dogrusoz, Erhan Giral, Ahmet Cetintas, Ali Civril, and Emek Demir.
@@ -17,11 +22,28 @@ Max Franz, Christian~T. Lopes, Gerardo Huck, Yue Dong, Onur Sumer, and Gary~D.
 \newblock Cytoscape.js: a graph theory library for visualisation and analysis.
 \newblock {\em Bioinformatics}, 32(2):309--311, 2016.
 
+\bibitem{4069238}
+E.~D. Giacomo, W.~Didimo, L.~Grilli, and G.~Liotta.
+\newblock Graph visualization techniques for web clustering engines.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  13(2):294--304, March 2007.
+
+\bibitem{M_Huisman}
+Mark Huisman and Marijtje Duijn.
+\newblock Software for social network analysis.
+\newblock In {\em Models and Methods in Social Network Analysis}, pages
+  270--316, 01 2005.
+
 \bibitem{1333626}
 D.~A. Keim, C.~Panse, M.~Sips, and S.~C. North.
 \newblock Visual data mining in large geospatial point sets.
 \newblock {\em IEEE Computer Graphics and Applications}, 24(5):36--44, Sept
   2004.
+
+\bibitem{CCCW2009}
+Daniel Keim, Jörn Kohlhammer, Geoffrey Ellis, and Florian Mansmann.
+\newblock Mastering the information age - solving problems with visual
+  analytics, 2010.
 
 \bibitem{545307}
 B.~Shneiderman.

@@ -3,46 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: hinweiseabschlussarbeit.aux
 The style file: plain.bst
 Database file #1: bib.bib
-Warning--I didn't find a database entry for "406923"
-You've used 6 entries,
+You've used 10 entries,
             2118 wiz_defined-function locations,
-            546 strings with 5042 characters,
-and the built_in function-call counts, 2480 in all, are:
-= -- 238
-> -- 121
-< -- 2
-+ -- 51
-- -- 41
-* -- 193
-:= -- 403
-add.period$ -- 19
-call.type$ -- 6
-change.case$ -- 38
+            573 strings with 5682 characters,
+and the built_in function-call counts, 3975 in all, are:
+= -- 379
+> -- 198
+< -- 3
++ -- 82
+- -- 67
+* -- 306
+:= -- 642
+add.period$ -- 30
+call.type$ -- 10
+change.case$ -- 63
 chr.to.int$ -- 0
-cite$ -- 6
-duplicate$ -- 90
-empty$ -- 188
-format.name$ -- 41
-if$ -- 526
+cite$ -- 10
+duplicate$ -- 142
+empty$ -- 305
+format.name$ -- 67
+if$ -- 843
 int.to.chr$ -- 0
-int.to.str$ -- 6
-missing$ -- 6
-newline$ -- 33
-num.names$ -- 14
-pop$ -- 35
+int.to.str$ -- 10
+missing$ -- 9
+newline$ -- 52
+num.names$ -- 22
+pop$ -- 64
 preamble$ -- 1
-purify$ -- 32
+purify$ -- 53
 quote$ -- 0
-skip$ -- 68
+skip$ -- 110
 stack$ -- 0
-substring$ -- 172
-swap$ -- 25
-text.length$ -- 2
+substring$ -- 267
+swap$ -- 39
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 24
+type$ -- 40
 warning$ -- 0
-while$ -- 22
-width$ -- 7
-write$ -- 70
-(There was 1 warning)
+while$ -- 35
+width$ -- 12
+write$ -- 111
